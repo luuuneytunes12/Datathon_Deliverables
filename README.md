@@ -5,9 +5,9 @@
 ## Description
 The flourishing of the Singapore economy is a double-edged sword. Though the outside world view us as a burgeoning financial hub, the efforts to safeguard our nation grow exponentially. Facing major threats in cyberspace, terrorism, radicalism and financial governance, it is sacrosanct for Singapore to monitor potential threats from both external and internal forces. 
 
-Therefore, collaborations between the defence and IT realm is vital to maintain a safe space for Singaporeans. Through robust analysis of all sorts of data, both unstructured and structured, defence agencies in Singapore can uncover hidden insights and connections between people to hit their KPIs, namely resource allocation, mission planning and security monitoring. 
+Therefore, collaborations between the defence and IT realm is vital to maintain a safe space for Singaporeans. Through robust analysis of all sorts of data, both unstructured and structured, defence agencies in Singapore can draw upon existing data to be better able pinpoint specific areas of concern that has surfaced around the world.
 
-As such, our team will be embarking on a journey of defence-analytics to uncover hidden relationships within an unstructured textual database, to optimise goals for ISD. 
+As such, our team will be embarking on a journey of defence-analytics to uncover common topics, sentiments and relationships within an unstructured textual database, to optimise goals for ISD. 
 
 ## Deliverables
 In this hackathon, we were required to build an analytics tool which leverages visual aids, e.g. various charts, to derive data-driven actionable insights for ISD. 
