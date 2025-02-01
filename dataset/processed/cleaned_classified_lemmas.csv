@@ -1,0 +1,1525 @@
+,Doc,Emotions,Topics
+0,N000,sadness | neutral,crime | environment | health | entertainment | money
+1,N001,anger | neutral,technology | crime | environment | entertainment | money
+2,N002,anger | sadness | fear | neutral,technology | environment | crime | health | entertainment | education | money
+3,N003,anger | neutral,crime | entertainment | money | environment
+4,N004,anger | fear | neutral,environment | politics | crime | health | entertainment | education | money
+5,N005,disgust | anger | fear | neutral,environment | entertainment | education | crime
+6,N006,anger | fear | joy | neutral,technology | environment | crime | politics | entertainment | education | money
+7,N007,anger | neutral,sports | technology | crime | politics | environment | health | entertainment | money
+8,N008,sadness | neutral,crime | politics | environment | entertainment | money
+9,N009,anger | surprise | neutral,technology | environment | politics | crime | entertainment | money
+10,N010,anger | fear | neutral,technology | crime | environment | entertainment | education | money
+11,N011,anger | neutral,technology | environment | politics | crime | health | entertainment | money
+12,N012,sadness | surprise | joy | neutral | anger,technology | crime | politics | environment | entertainment
+13,N013,anger | neutral,technology | crime | environment | entertainment | money
+14,N014,anger | fear | neutral,crime | entertainment | environment
+15,N015,disgust | sadness | joy | neutral | anger,politics | crime | environment | education | money
+16,N016,anger | fear | neutral,technology | crime | politics | environment | entertainment | money
+17,N017,disgust | anger | sadness | neutral,technology | environment | crime | health | entertainment
+18,N018,anger | neutral,environment | entertainment | crime
+19,N019,sadness | neutral,technology | politics | crime | environment | entertainment | money
+20,N020,anger | joy | neutral,technology | environment | crime | health | entertainment | money
+21,N021,disgust | anger | neutral,crime | entertainment | environment
+22,N022,disgust | fear | sadness | neutral | anger,environment | crime | politics | health | entertainment | money
+23,N023,sadness | joy | neutral,politics | crime | environment | entertainment | money
+24,N024,disgust | fear | sadness | neutral,crime | environment | health | entertainment | money
+25,N025,disgust | fear | neutral,crime | entertainment | money | environment
+26,N026,anger | sadness | joy | neutral,technology | environment | crime | health | entertainment | money
+27,N027,fear | neutral,environment | politics | crime | health | entertainment | money
+28,N028,fear | sadness | joy | neutral | anger,crime | politics | environment | health | entertainment | money
+29,N029,anger | joy | neutral,technology | crime | environment | politics | entertainment | money
+30,N030,anger | fear | joy | neutral,technology | environment | crime | entertainment | money
+31,N031,anger | surprise | neutral,crime | politics | environment | entertainment | money
+32,N032,anger | neutral,technology | environment | crime | health | entertainment | money
+33,N033,disgust | anger | surprise | neutral,crime | politics | environment | health | entertainment | money
+34,N034,disgust | anger | joy | neutral,technology | environment | crime | health | entertainment | education | money
+35,N035,disgust | anger | surprise | neutral,technology | crime | environment | health | entertainment | education | money
+36,N036,anger | neutral,technology | environment | crime | entertainment | education | money
+37,N037,anger | neutral,technology | environment | crime | entertainment | money
+38,N038,sadness | joy | neutral,technology | politics | environment | crime | health | entertainment | money
+39,N039,neutral,environment | entertainment | money | technology
+40,N040,disgust | anger | sadness | neutral,technology | environment | crime | politics | entertainment | money
+41,N041,disgust | sadness | fear | neutral,technology | crime | environment | entertainment | money
+42,N042,sadness | neutral,sports | technology | environment | crime | health | entertainment
+43,N043,anger | neutral,technology | environment | crime | entertainment | education | money
+44,N044,anger | neutral,technology | environment | crime | politics | entertainment | money
+45,N045,anger | neutral,technology | politics | environment | crime | entertainment | education | money
+46,N046,disgust | anger | fear | neutral,crime | entertainment | money | environment
+47,N047,anger | sadness | neutral,technology | crime | politics | environment | health | entertainment
+48,N048,neutral,technology | environment | crime | entertainment | money
+49,N049,disgust | neutral,technology | crime | politics | environment | entertainment | money
+50,N050,anger | joy | neutral,environment | politics | crime | entertainment | money
+51,N051,disgust | anger | fear | neutral,technology | crime | environment | health | entertainment
+52,N052,sadness | fear | neutral,technology | politics | environment | crime | entertainment | education | money
+53,N053,disgust | fear | neutral,technology | politics | environment | crime | health | entertainment | money
+54,N054,anger | fear | neutral,crime | politics | environment | entertainment | money
+55,N055,neutral,technology | crime | environment | entertainment | education | money
+56,N056,anger | neutral,environment | entertainment | education | crime
+57,N057,anger | joy | neutral,sports | crime | environment | entertainment | money
+58,N058,anger | sadness | neutral,technology | crime | politics | environment | entertainment
+59,N059,anger | sadness | neutral,crime | politics | environment | entertainment | education | money
+60,N060,anger | sadness | neutral,environment | politics | crime | entertainment | money
+61,N061,anger | sadness | neutral,technology | environment | politics | crime | entertainment | education
+62,N062,sadness | surprise | joy | neutral | anger,technology | politics | environment | crime | health | entertainment
+63,N063,neutral,technology | politics | crime | environment | entertainment | money
+64,N064,sadness | joy | neutral,technology | environment | politics | crime | entertainment | money
+65,N065,fear | sadness | neutral,environment | crime | health | entertainment | money
+66,N066,disgust | anger | surprise | neutral,crime | entertainment | politics | environment
+67,N067,anger | sadness | neutral,technology | crime | politics | environment | health | entertainment
+68,N068,neutral,technology | crime | environment | politics | entertainment | education | money
+69,N069,fear | neutral,technology | environment | crime | health | entertainment | money
+70,N070,anger | fear | neutral,technology | crime | politics | environment | entertainment
+71,N071,disgust | anger | neutral,technology | crime | politics | environment | entertainment | money
+72,N072,neutral,technology | politics | environment | crime | entertainment | money
+73,N073,anger | neutral,technology | crime | environment | politics | entertainment | money
+74,N074,anger | sadness | neutral,sports | technology | environment | politics | entertainment | money
+75,N075,anger | neutral,technology | politics | environment | crime | entertainment | money
+76,N076,sadness | neutral,technology | politics | crime | environment | entertainment | money
+77,N077,anger | neutral,politics | entertainment | crime | environment
+78,N078,sadness | joy | neutral,sports | environment | politics | crime | health | entertainment | money
+79,N079,disgust | anger | neutral,crime | politics | environment | health | entertainment | money
+80,N080,neutral,technology | environment | politics | crime | entertainment | money
+81,N081,sadness | surprise | neutral,technology | environment | crime | health | entertainment | money
+82,N082,disgust | sadness | neutral,technology | crime | environment | politics | entertainment | money
+83,N083,disgust | joy | neutral,technology | environment | politics | crime | health | entertainment | money
+84,N084,anger | neutral,technology | environment | politics | crime | health | entertainment
+85,N085,anger | sadness | neutral,politics | crime | environment | health | entertainment | education
+86,N086,anger | sadness | joy | neutral,technology | crime | politics | environment | entertainment
+87,N087,neutral,sports | technology | environment | crime | entertainment | money
+88,N088,anger | neutral,technology | environment | politics | crime | health | entertainment | money
+89,N089,anger | neutral,technology | politics | crime | environment | entertainment
+90,N090,disgust | anger | neutral,technology | environment | crime | politics | entertainment | money
+91,N091,anger | fear | sadness | neutral,technology | crime | environment | politics | health | entertainment | money
+92,N092,anger | neutral,technology | environment | health | entertainment | education | money
+93,N093,anger | joy | neutral,technology | politics | crime | environment | entertainment | money
+94,N094,anger | fear | neutral,sports | environment | politics | crime | entertainment | money
+95,N095,neutral,sports | technology | environment | politics | crime | entertainment | education
+96,N096,disgust | anger | neutral,technology | politics | environment | entertainment | money
+97,N097,neutral,crime | entertainment | environment
+98,N098,anger | fear | neutral,crime | entertainment | politics | environment
+99,N099,anger | neutral,crime | entertainment | environment
+100,N100,disgust | anger | sadness | neutral,technology | politics | crime | environment | health | entertainment
+101,N101,neutral,technology | crime | environment | politics | entertainment | money
+102,N102,anger | neutral,technology | environment | politics | crime | entertainment | money
+103,N103,neutral,sports | technology | environment | politics | crime | entertainment | money
+104,N104,anger | fear | sadness | neutral,environment | entertainment | money | crime
+105,N105,fear | sadness | joy | neutral,technology | environment | politics | crime | entertainment | money
+106,N106,anger | sadness | neutral,technology | environment | politics | crime | entertainment | money
+107,N107,anger | sadness | neutral,technology | environment | politics | crime | health | entertainment | money
+108,N108,sadness | neutral,environment | entertainment | technology | crime
+109,N109,anger | sadness | neutral,environment | politics | crime | health | entertainment | money
+110,N110,anger | fear | neutral,technology | environment | politics | crime | entertainment | money
+111,N111,anger | surprise | neutral,technology | environment | politics | crime | entertainment | money
+112,N112,neutral,technology | environment | politics | crime | health | entertainment | money
+113,N113,disgust | fear | joy | neutral,technology | environment | politics | crime | entertainment | education | money
+114,N114,anger | sadness | neutral,technology | crime | environment | politics | health | entertainment | education | money
+115,N115,anger | sadness | joy | neutral,environment | politics | crime | entertainment | education | money
+116,N116,sadness | neutral,environment | entertainment | technology | crime
+117,N117,anger | fear | joy | neutral,technology | crime | environment | entertainment | money
+118,N118,disgust | anger | sadness | neutral,environment | entertainment | technology | crime
+119,N119,anger | fear | neutral,sports | technology | environment | crime | health | entertainment | education | money
+120,N120,anger | sadness | joy | neutral,sports | technology | crime | environment | health | entertainment | money
+121,N121,anger | fear | neutral,technology | crime | politics | environment | health | entertainment | money
+122,N122,neutral,technology | crime | politics | environment | entertainment
+123,N123,anger | sadness | neutral,technology | crime | environment | health | entertainment | money
+124,N124,anger | fear | neutral,environment | politics | crime | health | entertainment | money
+125,N125,fear | neutral,environment | entertainment | crime
+126,N126,anger | joy | neutral,sports | environment | crime | health | entertainment
+127,N127,anger | fear | neutral,sports | technology | crime | environment | politics | health | entertainment | money
+128,N128,anger | fear | neutral,environment | crime | health | entertainment | money
+129,N129,anger | sadness | fear | neutral,crime | politics | environment | entertainment | education
+130,N130,fear | sadness | neutral,technology | politics | crime | environment | health | entertainment | money
+131,N131,disgust | fear | sadness | neutral | anger,environment | politics | crime | entertainment | money
+132,N132,anger | fear | neutral,technology | crime | environment | entertainment | education | money
+133,N133,anger | fear | neutral,environment | entertainment | technology | crime
+134,N134,sadness | neutral,environment | entertainment | politics | crime
+135,N135,anger | sadness | neutral,sports | technology | politics | environment | crime | health | entertainment
+136,N136,sadness | fear | neutral,technology | environment | politics | crime | entertainment | money
+137,N137,anger | fear | neutral,environment | entertainment | technology | crime
+138,N138,anger | fear | sadness | neutral,technology | crime | environment | health | entertainment | money
+139,N139,fear | sadness | neutral,technology | crime | environment | entertainment | money
+140,N140,disgust | sadness | neutral,technology | environment | health | entertainment | money
+141,N141,anger | fear | neutral,crime | entertainment | education | environment
+142,N142,fear | neutral,technology | environment | crime | health | entertainment | education
+143,N143,anger | sadness | neutral,environment | entertainment | technology | crime
+144,N144,anger | sadness | neutral,sports | technology | environment | politics | crime | entertainment
+145,N145,anger | neutral,technology | crime | politics | environment | entertainment | money
+146,N146,anger | fear | sadness | neutral,environment | politics | crime | health | entertainment | money
+147,N147,sadness | fear | neutral,technology | crime | politics | environment | health | entertainment
+148,N148,disgust | anger | fear | neutral,sports | technology | crime | environment | entertainment
+149,N149,disgust | fear | sadness | neutral | anger,environment | politics | crime | health | entertainment
+150,N150,anger | fear | neutral,environment | entertainment | politics | crime
+151,N151,disgust | fear | sadness | neutral | anger,technology | environment | crime | politics | health | entertainment | money
+152,N152,anger | sadness | fear | neutral,technology | environment | crime | politics | health | money
+153,N153,anger | fear | neutral,sports | technology | crime | politics | environment | entertainment
+154,N154,disgust | fear | sadness | neutral | anger,crime | environment | politics | health | entertainment
+155,N155,sadness | fear | neutral,technology | environment | politics | crime | entertainment | education
+156,N156,sadness | surprise | neutral,crime | politics | environment | health | entertainment
+157,N157,anger | fear | neutral,technology | environment | crime | politics | entertainment | education | money
+158,N158,disgust | fear | sadness | joy | surprise | neutral,sports | technology | politics | crime | environment | entertainment | money
+159,N159,neutral,technology | environment | crime | health | entertainment | education | money
+160,N160,anger | fear | neutral,technology | environment | crime | politics | health | entertainment
+161,N161,neutral,sports | environment | politics | crime | health | entertainment
+162,N162,disgust | anger | fear | neutral,sports | technology | crime | environment | politics | health | entertainment | money
+163,N163,disgust | anger | sadness | neutral,politics | crime | environment | health | entertainment | money
+164,N164,surprise | neutral,sports | environment | politics | crime | entertainment
+165,N165,disgust | anger | neutral,environment | crime | politics | health | entertainment | money
+166,N166,anger | joy | neutral,environment | entertainment | crime | technology
+167,N167,sadness | neutral,technology | politics | crime | environment | health | entertainment | money
+168,N168,disgust | anger | neutral,environment | politics | crime | entertainment | money
+169,N169,anger | fear | neutral,sports | technology | politics | crime | environment | health | entertainment | money
+170,N170,disgust | neutral,environment | entertainment | money | technology
+171,N171,anger | surprise | neutral,environment | entertainment | politics | crime
+172,N172,anger | sadness | fear | neutral,sports | environment | crime | health | entertainment | money
+173,N173,disgust | fear | joy | neutral | anger,environment | entertainment | money | crime
+174,N174,anger | neutral,technology | environment | crime | entertainment | education
+175,N175,neutral,technology | environment | crime | entertainment | money
+176,N176,neutral,technology | environment | politics | health | entertainment | money
+177,N177,neutral,sports | politics | crime | environment | entertainment | money
+178,N178,disgust | anger | neutral,environment | crime | health | entertainment | money
+179,N179,fear | sadness | joy | neutral | anger,technology | environment | crime | politics | health | entertainment | education | money
+180,N180,anger | sadness | neutral,environment | politics | crime | health | entertainment | money
+181,N181,anger | fear | surprise | neutral,technology | politics | crime | environment | health | entertainment
+182,N182,sadness | neutral,technology | environment | politics | crime | entertainment | money
+183,N183,anger | neutral,environment | entertainment | crime | health
+184,N184,anger | neutral,technology | politics | crime | environment | entertainment
+185,N185,neutral,environment | politics | crime | entertainment | money
+186,N186,disgust | anger | neutral,environment | politics | crime | entertainment | money
+187,N187,anger | sadness | neutral,crime | environment | health | entertainment | money
+188,N188,sadness | neutral,sports | environment | crime | health | entertainment | money
+189,N189,disgust | fear | sadness | neutral | anger,environment | entertainment | crime | technology
+190,N190,anger | sadness | fear | neutral,technology | environment | politics | health | entertainment
+191,N191,anger | neutral,sports | environment | crime | politics | entertainment | money
+192,N192,anger | fear | neutral,sports | politics | crime | environment | entertainment
+193,N193,disgust | anger | sadness | neutral,sports | technology | environment | politics | crime | health | entertainment | education | money
+194,N194,neutral,technology | environment | politics | health | entertainment | money
+195,N195,neutral,environment | entertainment | politics | technology
+196,N196,neutral,environment | entertainment | technology
+197,N197,disgust | neutral,environment | crime | politics | health | entertainment | money
+198,N198,sadness | neutral,technology | crime | environment | politics | health | entertainment | money
+199,N199,anger | neutral,technology | politics | crime | environment | health | entertainment | money
+200,N200,neutral,environment | entertainment | technology | crime
+201,N201,anger | fear | neutral,technology | politics | crime | environment | entertainment
+202,N202,fear | neutral,sports | environment | crime | health | entertainment | money
+203,N203,anger | sadness | joy | neutral,technology | environment | crime | politics | health | entertainment | education | money
+204,N204,sadness | neutral,sports | politics | crime | environment | health | entertainment
+205,N205,neutral,technology | environment | politics | crime | entertainment | education | money
+206,N206,disgust | anger | fear | neutral,technology | politics | environment | crime | entertainment | money
+207,N207,anger | neutral,environment | politics | health | entertainment | education
+208,N208,disgust | sadness | neutral,technology | environment | crime | health | entertainment
+209,N209,neutral,technology | environment | crime | politics | entertainment | money
+210,N210,disgust | anger | sadness | neutral,technology | environment | crime | politics | health | entertainment | money
+211,N211,disgust | anger | joy | neutral,sports | environment | politics | health | entertainment | education | money
+212,N212,sadness | neutral,politics | entertainment | environment | health
+213,N213,sadness | joy | neutral,technology | crime | environment | health | entertainment | money
+214,N214,anger | neutral,technology | environment | crime | health | entertainment
+215,N215,disgust | anger | sadness | neutral,environment | entertainment | politics | education
+216,N216,surprise | neutral,crime | entertainment | environment
+217,N217,sadness | surprise | neutral,technology | crime | environment | politics | entertainment | money
+218,N218,anger | joy | neutral,sports | technology | crime | environment | entertainment | money
+219,N219,disgust | fear | sadness | joy | neutral,environment | crime | health | entertainment | money
+220,N220,fear | sadness | joy | neutral,technology | politics | environment | health | entertainment | education
+221,N221,disgust | sadness | neutral,environment | politics | crime | health | entertainment | money
+222,N222,anger | sadness | surprise | neutral,technology | environment | politics | crime | entertainment | money
+223,N223,sadness | fear | neutral,technology | environment | crime | health | entertainment
+224,N224,fear | neutral,technology | crime | environment | health | entertainment | education | money
+225,N225,disgust | anger | sadness | neutral,technology | environment | crime | politics | health | entertainment
+226,N226,anger | sadness | neutral,sports | technology | environment | health | entertainment | money
+227,N227,disgust | anger | neutral,technology | environment | politics | crime | health | entertainment
+228,N228,anger | neutral,technology | environment | politics | crime | entertainment | education | money
+229,N229,joy | neutral,technology | environment | crime | entertainment | money
+230,N230,neutral,sports | technology | environment | crime | politics | entertainment
+231,N231,neutral,sports | technology | environment | crime | health | entertainment
+232,N232,anger | fear | neutral,technology | environment | politics | crime | health | entertainment | money
+233,N233,anger | joy | neutral,environment | crime | politics | entertainment | education | money
+234,N234,fear | neutral,sports | technology | environment | politics | health | entertainment | education | money
+235,N235,sadness | neutral,technology | environment | politics | crime | entertainment | money
+236,N236,disgust | anger | sadness | neutral,technology | politics | crime | environment | health | entertainment | money
+237,N237,neutral,technology | environment | politics | crime | entertainment | money
+238,N238,anger | sadness | neutral,technology | environment | politics | entertainment | money
+239,N239,sadness | joy | neutral,environment | entertainment | money | technology
+240,N240,disgust | anger | sadness | neutral,technology | environment | crime | politics | education | money
+241,N241,sadness | neutral,technology | environment | politics | health | entertainment | money
+242,N242,disgust | sadness | neutral,technology | environment | entertainment | education | money
+243,N243,joy | neutral,technology | environment | crime | health | entertainment | money
+244,N244,sadness | joy | neutral,politics | entertainment | money | environment
+245,N245,fear | neutral,technology | crime | environment | entertainment | education | money
+246,N246,joy | neutral,technology | environment | politics | crime | entertainment | money
+247,N247,disgust | neutral,technology | environment | politics | health | entertainment | money
+248,N248,anger | neutral,technology | environment | crime | entertainment | money
+249,N249,sadness | neutral,environment | entertainment | money | technology
+250,N250,sadness | fear | neutral,technology | politics | crime | environment | entertainment | money
+251,N251,anger | fear | neutral,technology | environment | politics | crime | entertainment | money
+252,N252,neutral,technology | environment | crime | entertainment | money
+253,N253,sadness | joy | neutral,technology | environment | politics | crime | entertainment | money
+254,N254,neutral,technology | crime | politics | environment | entertainment | money
+255,N255,fear | neutral,technology | politics | environment | entertainment | money
+256,N256,neutral,technology | environment | politics | crime | entertainment | money
+257,N257,neutral,sports | technology | environment | crime | education | money
+258,N258,anger | joy | neutral,technology | environment | crime | politics | entertainment | money
+259,N259,sadness | neutral,sports | technology | environment | crime | entertainment | money
+260,N260,sadness | joy | neutral,sports | technology | environment | crime | politics | entertainment | money
+261,N261,disgust | anger | neutral,technology | environment | crime | health | entertainment | money
+262,N262,anger | sadness | neutral,environment | entertainment | money | technology
+263,N263,anger | sadness | neutral,technology | environment | politics | crime | entertainment | money
+264,N264,sadness | neutral,environment | entertainment | money | technology
+265,N265,fear | sadness | neutral,technology | environment | crime | health | entertainment | money
+266,N266,anger | neutral,technology | environment | crime | politics | entertainment | money
+267,N267,anger | sadness | neutral,technology | environment | crime | politics | entertainment | money
+268,N268,anger | fear | neutral,technology | environment | politics | entertainment | education | money
+269,N269,fear | sadness | neutral,technology | environment | health | entertainment | education | money
+270,N270,anger | neutral,technology | environment | politics | entertainment | money
+271,N271,disgust | anger | neutral,technology | environment | politics | crime | entertainment | money
+272,N272,sadness | neutral,technology | environment | crime | entertainment | money
+273,N273,anger | neutral,technology | crime | politics | environment | entertainment | money
+274,N274,disgust | sadness | neutral,technology | politics | environment | crime | entertainment | money
+275,N275,anger | sadness | neutral,environment | entertainment | money | technology
+276,N276,sadness | neutral,sports | environment | crime | politics | health | entertainment | money
+277,N277,neutral,technology | environment | politics | crime | entertainment | money
+278,N278,anger | fear | neutral,technology | environment | politics | health | entertainment | education | money
+279,N279,joy | neutral,technology | environment | politics | crime | entertainment | money
+280,N280,neutral,technology | environment | health | entertainment | money
+281,N281,sadness | neutral,technology | environment | crime | entertainment | money
+282,N282,anger | sadness | neutral,environment | entertainment | money | technology
+283,N283,sadness | joy | neutral,technology | environment | crime | health | entertainment | money
+284,N284,sadness | neutral,technology | environment | crime | politics | entertainment | money
+285,N285,anger | sadness | joy | neutral,technology | environment | politics | crime | health | entertainment | money
+286,N286,disgust | fear | sadness | neutral,environment | entertainment | money | technology
+287,N287,sadness | neutral,technology | environment | politics | crime | entertainment | money
+288,N288,neutral,technology | environment | politics | crime | health | entertainment | money
+289,N289,neutral,environment | entertainment | money | technology
+290,N290,anger | neutral,sports | technology | crime | environment | entertainment | money
+291,N291,fear | neutral,sports | technology | environment | crime | entertainment | money
+292,N292,anger | fear | neutral,technology | environment | politics | health | entertainment | education | money
+293,N293,neutral,sports | technology | environment | politics | health | entertainment | money
+294,N294,anger | sadness | neutral,sports | technology | crime | environment | entertainment | money
+295,N295,fear | surprise | neutral,technology | environment | crime | entertainment | money
+296,N296,sadness | neutral,technology | crime | environment | politics | health | entertainment
+297,N297,anger | sadness | neutral,sports | technology | environment | crime | politics | entertainment | money
+298,N298,neutral,technology | environment | politics | crime | entertainment | money
+299,N299,anger | joy | neutral,sports | technology | environment | crime | entertainment | money
+300,N300,anger | sadness | neutral,sports | technology | environment | crime | entertainment | money
+301,N301,anger | sadness | neutral,environment | entertainment | money | technology
+302,N302,anger | sadness | fear | neutral,technology | environment | politics | entertainment | education | money
+303,N303,anger | fear | neutral,sports | technology | environment | crime | health | entertainment | money
+304,N304,joy | neutral,sports | technology | crime | environment | health | entertainment | education | money
+305,N305,anger | sadness | neutral,sports | technology | environment | crime | entertainment | money
+306,N306,neutral,sports | technology | environment | politics | entertainment | education
+307,N307,disgust | joy | neutral,sports | technology | crime | environment | entertainment | money
+308,N308,disgust | anger | joy | neutral,sports | technology | environment | crime | entertainment | money
+309,N309,anger | sadness | neutral,sports | technology | environment | crime | entertainment | money
+310,N310,disgust | neutral,environment | politics | crime | entertainment | money
+311,N311,sadness | neutral,technology | environment | politics | entertainment | money
+312,N312,neutral,sports | technology | crime | environment | entertainment | money
+313,N313,neutral,sports | technology | environment | politics | health | entertainment | education | money
+314,N314,anger | sadness | joy | neutral,sports | technology | environment | entertainment | education | money
+315,N315,anger | neutral,sports | technology | environment | politics | entertainment | money
+316,N316,joy | neutral,sports | technology | environment | entertainment | money
+317,N317,anger | fear | neutral,technology | environment | crime | health | entertainment | education | money
+318,N318,fear | neutral,technology | crime | environment | health | entertainment | money
+319,N319,sadness | surprise | neutral,technology | environment | crime | health | entertainment | money
+320,N320,fear | neutral,technology | environment | crime | entertainment | money
+321,N321,anger | sadness | neutral,crime | environment | health | entertainment | money
+322,N322,sadness | neutral,technology | environment | politics | entertainment | money
+323,N323,sadness | neutral,technology | environment | politics | entertainment | money
+324,N324,anger | sadness | neutral,technology | environment | politics | entertainment | money
+325,N325,sadness | fear | neutral,sports | technology | politics | environment | crime | entertainment | money
+326,N326,anger | neutral,sports | technology | crime | environment | entertainment | education | money
+327,N327,sadness | fear | neutral,technology | crime | environment | health | entertainment | money
+328,N328,neutral,technology | environment | crime | entertainment | money
+329,N329,anger | sadness | neutral,technology | environment | politics | crime | health | entertainment | education | money
+330,N330,neutral,technology | environment | crime | entertainment | money
+331,N331,disgust | anger | sadness | neutral,sports | technology | environment | crime | entertainment | money
+332,N332,fear | neutral,environment | entertainment | money | technology
+333,N333,disgust | fear | sadness | neutral | anger,sports | environment | crime | health | entertainment | money
+334,N334,disgust | anger | neutral,sports | technology | environment | crime | entertainment | money
+335,N335,fear | neutral,technology | environment | health | entertainment | money
+336,N336,neutral,sports | technology | politics | environment | entertainment | education | money
+337,N337,disgust | sadness | neutral,sports | technology | environment | crime | entertainment | money
+338,N338,anger | sadness | fear | neutral,sports | technology | environment | politics | crime | entertainment | money
+339,N339,anger | sadness | neutral,sports | technology | environment | crime | entertainment | money
+340,N340,sadness | neutral,technology | environment | crime | health | entertainment | money
+341,N341,joy | neutral,politics | entertainment | technology | environment
+342,N342,anger | fear | sadness | neutral,technology | crime | environment | entertainment | money
+343,N343,sadness | joy | neutral | surprise,sports | technology | crime | environment | health | entertainment | money
+344,N344,surprise | neutral,sports | technology | environment | entertainment | money
+345,N345,sadness | neutral,sports | technology | environment | entertainment | money
+346,N346,disgust | fear | neutral,crime | environment | health | entertainment | money
+347,N347,joy | neutral,technology | environment | health | entertainment | education | money
+348,N348,anger | neutral,technology | environment | politics | crime | health | entertainment
+349,N349,anger | fear | joy | neutral,crime | environment | health | entertainment | money
+350,N350,disgust | anger | surprise | neutral,environment | entertainment
+351,N351,anger | sadness | surprise | neutral,technology | crime | politics | environment | health | entertainment
+352,N352,disgust | anger | sadness | neutral,environment | crime | health | entertainment | money
+353,N353,anger | sadness | neutral,crime | environment | health | entertainment | money
+354,N354,disgust | anger | sadness | neutral,sports | environment | entertainment | education | money
+355,N355,anger | sadness | neutral,sports | environment | crime | health | entertainment | money
+356,N356,anger | sadness | joy | neutral,sports | crime | environment | entertainment | money
+357,N357,fear | sadness | neutral,sports | environment | health | entertainment | money
+358,N358,anger | fear | neutral,sports | technology | politics | crime | environment | entertainment
+359,N359,fear | joy | neutral,technology | environment | crime | entertainment | money
+360,N360,anger | sadness | fear | neutral,sports | technology | politics | environment | health | entertainment
+361,N361,anger | neutral,environment | entertainment | sports | crime
+362,N362,neutral,sports | environment | health | entertainment | money
+363,N363,sadness | neutral,sports | technology | environment | crime | health | entertainment | money
+364,N364,neutral,environment | entertainment | sports | money
+365,N365,anger | neutral,sports | technology | environment | politics | crime | entertainment
+366,N366,sadness | neutral,sports | environment | crime | entertainment | money
+367,N367,disgust | anger | neutral,crime | entertainment | money | environment
+368,N368,disgust | sadness | joy | neutral,crime | entertainment | money | environment
+369,N369,fear | sadness | surprise | neutral,environment | entertainment | money | technology
+370,N370,disgust | surprise | neutral | joy,sports | environment | politics | crime | entertainment
+371,N371,disgust | joy | neutral,technology | environment | crime | health | entertainment
+372,N372,disgust | neutral,sports | technology | environment | health | entertainment
+373,N373,neutral,sports | environment | politics | crime | entertainment
+374,N374,disgust | surprise | neutral,environment | politics | crime | health | entertainment | money
+375,N375,sadness | surprise | neutral,technology | environment | crime | health | entertainment | money
+376,N376,disgust | anger | joy | neutral,sports | crime | environment | health | entertainment
+377,N377,disgust | anger | neutral,sports | technology | environment | politics | crime | entertainment
+378,N378,anger | neutral,technology | environment | politics | crime | health | entertainment | money
+379,N379,disgust | sadness | fear | neutral,technology | environment | politics | crime | health | entertainment | education | money
+380,N380,anger | fear | sadness | neutral,technology | environment | crime | health | entertainment | money
+381,N381,sadness | neutral,environment | entertainment | sports | health
+382,N382,joy | neutral,environment | entertainment | technology
+383,N383,joy | neutral,technology | crime | politics | environment | entertainment | money
+384,N384,sadness | joy | neutral,sports | environment | politics | crime | health | entertainment | money
+385,N385,neutral,technology | crime | environment | health | entertainment
+386,N386,anger | neutral,sports | environment | crime | health | entertainment | money
+387,N387,anger | sadness | joy | neutral,crime | entertainment | technology | environment
+388,N388,disgust | fear | neutral,crime | environment | entertainment | education | money
+389,N389,sadness | joy | neutral | surprise,technology | crime | environment | entertainment | money
+390,N390,disgust | anger | sadness | neutral,technology | environment | politics | crime | entertainment | money
+391,N391,sadness | joy | neutral,environment | politics | health | entertainment | money
+392,N392,sadness | neutral,technology | environment | crime | entertainment | money
+393,N393,anger | neutral,technology | environment | crime | entertainment | money
+394,N394,anger | surprise | joy | neutral,environment | crime | politics | health | entertainment | money
+395,N395,anger | sadness | neutral,crime | environment | health | entertainment | money
+396,N396,neutral,technology | crime | politics | environment | entertainment
+397,N397,fear | sadness | joy | surprise | neutral,environment | entertainment | crime | technology
+398,N398,sadness | neutral,environment | entertainment | crime
+399,N399,anger | fear | sadness | neutral,technology | environment | crime | entertainment | money
+400,N400,anger | neutral,environment | entertainment | technology | crime
+401,N401,disgust | fear | neutral,technology | environment | health | entertainment | education | money
+402,N402,anger | neutral,sports | technology | crime | environment | health | entertainment
+403,N403,anger | surprise | neutral,sports | technology | environment | crime | politics | entertainment | money
+404,N404,anger | fear | neutral,environment | politics | crime | entertainment | money
+405,N405,anger | surprise | neutral | joy,sports | technology | crime | environment | health | entertainment
+406,N406,disgust | sadness | neutral,technology | environment | crime | health | entertainment
+407,N407,disgust | sadness | surprise | neutral,technology | crime | environment | health | entertainment
+408,N408,sadness | neutral,environment | entertainment | technology | health
+409,N409,sadness | neutral,technology | environment | crime | politics | health | entertainment
+410,N410,disgust | fear | sadness | neutral | anger,technology | environment | crime | health | entertainment | education
+411,N411,disgust | anger | sadness | neutral,technology | environment | crime | health | entertainment
+412,N412,disgust | sadness | fear | neutral,technology | environment | crime | health | entertainment | money
+413,N413,sadness | neutral,technology | environment | crime | health | entertainment | education
+414,N414,disgust | fear | neutral,sports | technology | environment | health | entertainment | education
+415,N415,anger | sadness | fear | neutral,technology | environment | politics | crime | health | entertainment | education | money
+416,N416,disgust | anger | sadness | neutral,sports | technology | environment | crime | politics | health | entertainment
+417,N417,sadness | neutral,technology | environment | crime | health | entertainment
+418,N418,sadness | neutral,sports | technology | environment | politics | crime | entertainment | money
+419,N419,sadness | neutral,environment | entertainment | crime | health
+420,N420,neutral,sports | technology | environment | health | entertainment
+421,N421,disgust | sadness | fear | neutral,environment | politics | crime | health
+422,N422,disgust | neutral,environment | entertainment | technology | health
+423,N423,sadness | surprise | neutral,sports | technology | crime | environment | health | entertainment
+424,N424,anger | neutral,sports | technology | environment | crime | health | entertainment | money
+425,N425,sadness | neutral,sports | technology | environment | crime | health | entertainment
+426,N426,sadness | surprise | neutral,technology | crime | environment | health | entertainment | money
+427,N427,sadness | neutral,technology | environment | crime | health | entertainment | money
+428,N428,anger | sadness | neutral,sports | technology | crime | environment | health | entertainment
+429,N429,sadness | neutral,technology | environment | politics | crime | health | entertainment
+430,N430,fear | sadness | neutral,technology | environment | politics | health | entertainment | money
+431,N431,disgust | neutral,technology | politics | environment | crime | health | entertainment
+432,N432,sadness | neutral,sports | technology | crime | environment | health | entertainment | education | money
+433,N433,disgust | fear | sadness | surprise | neutral | anger,sports | technology | crime | environment | health | entertainment
+434,N434,fear | sadness | joy | neutral,technology | environment | crime | health | entertainment
+435,N435,disgust | anger | neutral,environment | entertainment | crime | health
+436,N436,anger | sadness | surprise | neutral,environment | entertainment | crime | health
+437,N437,anger | fear | joy | neutral,sports | technology | environment | crime | health | entertainment
+438,N438,disgust | sadness | neutral,technology | crime | environment | health | entertainment
+439,N439,disgust | sadness | neutral,crime | environment | health | entertainment | education
+440,N440,disgust | sadness | neutral,environment | crime | health | entertainment | money
+441,N441,anger | neutral,sports | technology | environment | crime | health | entertainment
+442,N442,sadness | neutral,technology | environment | crime | health | entertainment
+443,N443,anger | sadness | neutral,sports | technology | environment | crime | health | entertainment
+444,N444,anger | sadness | joy | neutral,sports | technology | environment | health | entertainment | education
+445,N445,anger | sadness | neutral,environment | entertainment | technology | health
+446,N446,fear | sadness | surprise | neutral,sports | technology | environment | crime | health | entertainment | education
+447,N447,anger | sadness | neutral,crime | environment | politics | health | entertainment | education
+448,N448,sadness | neutral,technology | environment | politics | crime | health | entertainment
+449,N449,anger | sadness | neutral,crime | environment | politics | health | entertainment | money
+450,N450,disgust | sadness | neutral,environment | entertainment | crime | health
+451,N451,disgust | sadness | neutral,sports | technology | environment | crime | health | entertainment
+452,N452,disgust | sadness | joy | neutral,environment | entertainment | crime | health
+453,N453,anger | fear | joy | neutral,sports | environment | crime | health | entertainment | money
+454,N454,disgust | sadness | neutral,environment | entertainment | crime | health
+455,N455,sadness | neutral,technology | crime | politics | environment | health
+456,N456,disgust | sadness | neutral,sports | environment | crime | health | entertainment | money
+457,N457,sadness | neutral,sports | technology | crime | environment | health | entertainment
+458,N458,sadness | neutral,sports | technology | environment | health | entertainment
+459,N459,fear | neutral,technology | environment | crime | health | entertainment
+460,N460,disgust | anger | sadness | neutral,technology | environment | crime | health | entertainment | education
+461,N461,fear | sadness | surprise | neutral | anger,technology | environment | crime | health | entertainment
+462,N462,disgust | anger | neutral,sports | environment | crime | politics | health | entertainment | education
+463,N463,anger | neutral,sports | technology | environment | politics | health | entertainment
+464,N464,disgust | sadness | neutral,environment | health | entertainment | education | money
+465,N465,fear | sadness | neutral | surprise,sports | technology | crime | environment | entertainment
+466,N466,disgust | neutral,environment | entertainment | money | crime
+467,N467,anger | sadness | neutral,sports | technology | environment | crime | entertainment
+468,N468,anger | sadness | fear | neutral,environment | entertainment | crime | health
+469,N469,anger | fear | neutral,environment | entertainment | politics | money
+470,N470,disgust | anger | sadness | neutral,sports | environment | entertainment | education | money
+471,N471,anger | sadness | neutral,sports | technology | crime | environment | entertainment
+472,N472,sadness | neutral,environment | entertainment | technology
+473,N473,neutral,technology | politics | crime | environment | entertainment | money
+474,N474,disgust | fear | neutral,environment | crime | health | entertainment | money
+475,N475,sadness | neutral,environment | entertainment | politics | technology
+476,N476,disgust | sadness | joy | neutral,environment | health | entertainment | education | money
+477,N477,anger | sadness | neutral,technology | environment | crime | health | entertainment | money
+478,N478,anger | fear | neutral,environment | entertainment | money | crime
+479,N479,neutral,environment | crime | health | entertainment | money
+480,N480,anger | sadness | neutral,technology | environment | crime | health | entertainment
+481,N481,fear | neutral,environment | crime | health | entertainment | money
+482,N482,disgust | anger | sadness | neutral,environment | entertainment | crime | health
+483,N483,sadness | neutral,sports | crime | environment | entertainment | money
+484,N484,disgust | anger | sadness | neutral,technology | environment | politics | crime | health | entertainment | money
+485,N485,sadness | neutral,technology | environment | crime | health | entertainment
+486,N486,anger | sadness | joy | neutral,crime | politics | environment | entertainment | money
+487,N487,anger | joy | neutral,technology | environment | crime | health | entertainment | money
+488,N488,disgust | neutral,sports | crime | environment | health | entertainment | money
+489,N489,anger | fear | sadness | neutral,technology | crime | environment | entertainment | education | money
+490,N490,fear | sadness | surprise | neutral,sports | technology | crime | environment | health | entertainment | education
+491,N491,neutral,technology | environment | crime | health | entertainment | money
+492,N492,disgust | sadness | neutral,technology | crime | environment | health | entertainment | money
+493,N493,disgust | fear | neutral,technology | environment | crime | health | entertainment | education | money
+494,N494,neutral,technology | crime | environment | health | entertainment
+495,N495,disgust | anger | neutral,technology | environment | health | entertainment | money
+496,N496,neutral,technology | environment | politics | health | entertainment | education
+497,N497,surprise | neutral,environment | entertainment | money | crime
+498,N498,anger | neutral,crime | entertainment | environment
+499,N499,neutral,crime | entertainment | technology | environment
+500,N500,neutral,environment | entertainment | crime
+501,N501,neutral,environment | entertainment | health
+502,N502,anger | neutral,technology | environment | crime | entertainment | education
+503,N503,neutral,sports | technology | environment | health | entertainment | education
+504,N504,sadness | neutral,sports | politics | crime | environment | entertainment
+505,N505,neutral,technology | environment | crime | entertainment | money
+506,N506,neutral,sports | technology | environment | health | entertainment | money
+507,N507,disgust | sadness | surprise | neutral,technology | environment | crime | politics | health | entertainment | money
+508,N508,anger | neutral,environment | entertainment
+509,N509,surprise | joy | neutral,sports | technology | crime | environment | entertainment | education | money
+510,N510,anger | neutral,sports | crime | environment | entertainment | money
+511,N511,surprise | neutral,environment | entertainment | technology
+512,N512,anger | sadness | surprise | neutral,environment | entertainment | technology | crime
+513,N513,disgust | neutral,sports | environment | crime | entertainment | money
+514,N514,neutral,environment | entertainment
+515,N515,fear | neutral,environment | entertainment | crime | technology
+516,N516,anger | surprise | neutral,education | entertainment | money | environment
+517,N517,neutral,environment | entertainment | money
+518,N518,anger | sadness | neutral,technology | environment | health | entertainment | money
+519,N519,surprise | neutral,sports | environment | health | entertainment | money
+520,N520,disgust | anger | fear | neutral,technology | environment | crime | entertainment | money
+521,N521,joy | neutral,sports | technology | environment | entertainment | money
+522,N522,neutral,technology | environment | politics | health | entertainment | education | money
+523,N523,sadness | joy | neutral,education | entertainment | money | environment
+524,N524,fear | neutral,environment | entertainment | money | crime
+525,N525,sadness | neutral,technology | environment | politics | entertainment | education | money
+526,N526,sadness | neutral,technology | environment | politics | health | entertainment
+527,N527,sadness | neutral,sports | technology | environment | health | entertainment | money
+528,N528,disgust | fear | sadness | joy | neutral,crime | entertainment | money | environment
+529,N529,disgust | fear | neutral,technology | environment | politics | health | entertainment | money
+530,N530,anger | fear | neutral,technology | environment | health | entertainment | money
+531,N531,anger | neutral,sports | environment | politics | crime | health | entertainment | money
+532,N532,anger | neutral,environment | politics | crime | health | entertainment
+533,N533,disgust | sadness | neutral,technology | environment | politics | health | entertainment | education | money
+534,N534,neutral,sports | technology | environment | health | entertainment | money
+535,N535,anger | fear | neutral,environment | entertainment | money | health
+536,N536,disgust | fear | sadness | joy | neutral,sports | technology | environment | politics | health | entertainment | education | money
+537,N537,disgust | sadness | joy | neutral | anger,technology | environment | crime | health | entertainment | money
+538,N538,anger | sadness | neutral,technology | crime | environment | health | entertainment
+539,N539,sadness | joy | neutral,sports | technology | environment | crime | entertainment | education | money
+540,N540,fear | neutral,environment | health | entertainment | education | money
+541,N541,joy | neutral,technology | crime | environment | entertainment | money
+542,N542,disgust | sadness | neutral,sports | technology | environment | politics | health | entertainment | education | money
+543,N543,anger | sadness | neutral,technology | environment | crime | entertainment | education
+544,N544,fear | neutral,technology | environment | entertainment | education | money
+545,N545,surprise | neutral,technology | crime | politics | environment | health | entertainment | money
+546,N546,anger | fear | sadness | neutral,sports | technology | environment | health | entertainment | money
+547,N547,disgust | anger | neutral,sports | technology | environment | health | entertainment | education | money
+548,N548,fear | sadness | neutral,sports | technology | environment | crime | health | entertainment | education | money
+549,N549,anger | neutral,sports | technology | environment | crime | politics | health | entertainment | money
+550,N550,sadness | surprise | neutral,sports | technology | crime | environment | entertainment | money
+551,N551,neutral,technology | environment | crime | politics | health | entertainment | money
+552,N552,sadness | neutral,sports | technology | crime | environment | health | entertainment | money
+553,N553,sadness | neutral,sports | technology | environment | crime | entertainment | money
+554,N554,anger | surprise | neutral,technology | environment | politics | crime | health | entertainment
+555,N555,anger | sadness | neutral,environment | politics | crime | health | entertainment
+556,N556,sadness | surprise | neutral,technology | crime | environment | health | entertainment | money
+557,N557,neutral,sports | technology | environment | crime | entertainment
+558,N558,sadness | fear | neutral,technology | crime | environment | health | entertainment
+559,N559,anger | surprise | neutral,technology | environment | politics | crime | health | entertainment
+560,N560,anger | neutral,technology | environment | crime | politics | health | entertainment | money
+561,N561,fear | neutral,technology | environment | politics | entertainment | education | money
+562,N562,fear | neutral,politics | crime | environment | health | entertainment | education
+563,N563,anger | neutral,sports | technology | crime | environment | health | entertainment | education
+564,N564,disgust | fear | sadness | neutral,technology | environment | crime | health | entertainment | money
+565,N565,fear | neutral,technology | environment | crime | health | entertainment | education
+566,N566,sadness | neutral,environment | entertainment | money | crime
+567,N567,surprise | neutral,technology | crime | environment | entertainment | money
+568,N568,anger | neutral,technology | environment | crime | entertainment | money
+569,N569,fear | neutral,technology | politics | environment | entertainment | education | money
+570,N570,disgust | neutral,environment | entertainment | money | crime
+571,N571,anger | surprise | neutral,sports | environment | politics | health | entertainment | education | money
+572,N572,anger | neutral,sports | technology | crime | environment | health | entertainment | money
+573,N573,neutral,sports | technology | environment | politics | health | entertainment | education | money
+574,N574,neutral,technology | environment | politics | entertainment | education | money
+575,N575,anger | sadness | surprise | neutral,sports | technology | environment | health | entertainment | education | money
+576,N576,anger | sadness | neutral,environment | politics | crime | health | entertainment | money
+577,N577,anger | sadness | neutral,technology | environment | politics | crime | entertainment
+578,N578,neutral,environment | entertainment | money | crime
+579,N579,fear | neutral,crime | environment | politics | entertainment | education | money
+580,N580,disgust | fear | neutral,technology | crime | environment | politics | health | entertainment | education
+581,N581,sadness | joy | neutral,sports | technology | environment | entertainment | education
+582,N582,disgust | fear | sadness | surprise | joy | neutral | anger,technology | environment | crime | politics | health | entertainment | education | money
+583,N583,fear | sadness | neutral,sports | technology | environment | crime | entertainment | education | money
+584,N584,anger | neutral,sports | technology | crime | environment | entertainment
+585,N585,disgust | surprise | neutral | joy,technology | environment | crime | entertainment | education
+586,N586,sadness | neutral,sports | technology | environment | health | entertainment | education
+587,N587,anger | sadness | surprise | neutral,technology | environment | crime | entertainment | education
+588,N588,disgust | fear | neutral,crime | environment | health | entertainment | education | money
+589,N589,anger | fear | sadness | neutral,sports | environment | politics | crime | entertainment | education
+590,N590,disgust | sadness | neutral,sports | politics | environment | crime | health | entertainment | education
+591,N591,sadness | neutral,environment | entertainment | money | education
+592,N592,fear | joy | neutral,environment | entertainment | money | education
+593,N593,anger | sadness | neutral,sports | crime | environment | health | entertainment | education
+594,N594,disgust | anger | sadness | neutral,sports | technology | environment | health | entertainment | education
+595,N595,fear | sadness | neutral,environment | crime | health | entertainment | education | money
+596,N596,fear | sadness | neutral,environment | crime | entertainment | education | money
+597,N597,fear | joy | neutral,technology | environment | crime | health | entertainment | education
+598,N598,fear | neutral,sports | crime | environment | entertainment | education
+599,N599,anger | fear | neutral,technology | crime | environment | health | entertainment | education
+600,N600,disgust | sadness | fear | neutral,environment | crime | health | entertainment | education
+601,N601,fear | sadness | surprise | joy | neutral,sports | environment | crime | health | entertainment | education
+602,N602,anger | joy | neutral,crime | environment | health | entertainment | education
+603,N603,sadness | joy | neutral,sports | technology | environment | health | entertainment | education
+604,N604,sadness | neutral,sports | technology | crime | environment | health | entertainment | education | money
+605,N605,disgust | fear | joy | neutral,technology | environment | crime | health | entertainment | education | money
+606,N606,neutral,sports | technology | politics | environment | entertainment
+607,N607,sadness | neutral,technology | environment | health | entertainment | education
+608,N608,disgust | fear | surprise | neutral | anger,crime | environment | politics | health | entertainment | education
+609,N609,neutral,environment | crime | health | entertainment | education
+610,N610,disgust | sadness | neutral,crime | entertainment | education | environment
+611,N611,anger | sadness | surprise | neutral,technology | environment | politics | crime | entertainment | education | money
+612,N612,anger | sadness | neutral,technology | crime | environment | politics | entertainment | education
+613,N613,disgust | sadness | surprise | neutral,technology | environment | crime | health | entertainment | education | money
+614,N614,anger | fear | neutral,education | entertainment | environment
+615,N615,fear | surprise | neutral,technology | environment | crime | entertainment | education | money
+616,N616,sadness | neutral,technology | environment | health | entertainment | education | money
+617,N617,fear | sadness | joy | surprise | neutral | anger,environment | crime | health | entertainment | education | money
+618,N618,anger | surprise | neutral,sports | environment | crime | health | entertainment | money
+619,N619,neutral,crime | environment | health | entertainment | education
+620,N620,sadness | fear | neutral,technology | environment | crime | health | entertainment | education | money
+621,N621,sadness | neutral,environment | entertainment | money | education
+622,N622,disgust | sadness | surprise | neutral,technology | environment | crime | health | entertainment | education | money
+623,N623,disgust | anger | sadness | neutral,technology | environment | politics | crime | health | entertainment | education
+624,N624,fear | neutral,technology | crime | environment | health | entertainment | money
+625,N625,anger | fear | neutral,technology | environment | crime | health | entertainment | education | money
+626,N626,joy | neutral,technology | crime | environment | entertainment | money
+627,N627,disgust | fear | sadness | surprise | neutral | anger,technology | crime | environment | health | entertainment | education
+628,N628,disgust | anger | sadness | neutral,crime | environment | entertainment | education | money
+629,N629,fear | neutral,environment | entertainment | education | technology
+630,N630,sadness | neutral,sports | environment | crime | entertainment | education
+631,N631,sadness | neutral,technology | environment | politics | crime | health | entertainment | education | money
+632,N632,sadness | fear | neutral,sports | technology | environment | crime | health | entertainment | education
+633,N633,anger | fear | sadness | neutral,politics | crime | environment | entertainment | education
+634,N634,sadness | neutral,environment | crime | health | entertainment | education | money
+635,N635,anger | neutral,technology | crime | environment | entertainment | education
+636,N636,disgust | fear | sadness | joy | neutral,technology | crime | environment | politics | health | entertainment
+637,N637,disgust | anger | neutral,environment | entertainment | technology
+638,N638,anger | sadness | fear | neutral,politics | crime | environment | health | entertainment | education
+639,N639,sadness | joy | neutral,sports | technology | environment | crime | health | entertainment | education
+640,N640,anger | sadness | fear | neutral,environment | politics | crime | health | entertainment
+641,N641,fear | sadness | surprise | neutral | anger,environment | politics | crime | entertainment | money
+642,N642,anger | neutral,crime | entertainment | money | environment
+643,N643,joy | neutral,environment | entertainment | technology
+644,N644,sadness | neutral,sports | technology | environment | crime | entertainment | money
+645,N645,neutral,environment | crime | politics | health | entertainment | money
+646,N646,sadness | neutral,technology | environment | crime | health | entertainment
+647,N647,fear | joy | neutral,sports | environment | crime | politics | health | entertainment | money
+648,N648,anger | fear | sadness | neutral,environment | entertainment | politics | crime
+649,N649,fear | sadness | neutral,environment | entertainment | technology
+650,N650,sadness | fear | neutral,politics | crime | environment | health | entertainment | money
+651,N651,sadness | neutral,environment | entertainment | crime | health
+652,N652,neutral,environment | entertainment | politics | technology
+653,N653,sadness | neutral,sports | technology | environment | crime | health | entertainment
+654,N654,anger | neutral,technology | crime | environment | health | entertainment | money
+655,N655,neutral,environment | entertainment | technology | crime
+656,N656,sadness | neutral,environment | entertainment | sports | money
+657,N657,fear | sadness | neutral,technology | environment | crime | health | entertainment | education | money
+658,N658,fear | sadness | surprise | neutral,environment | entertainment | crime | health
+659,N659,disgust | neutral,technology | environment | crime | entertainment | education
+660,N660,neutral,environment | entertainment | technology | crime
+661,N661,sadness | neutral,technology | politics | environment | crime | health | entertainment
+662,N662,neutral,environment | entertainment | technology | health
+663,N663,sadness | neutral,environment | entertainment | money | crime
+664,N664,anger | neutral,sports | technology | environment | politics | health | entertainment | education
+665,N665,sadness | joy | neutral,sports | environment | politics | crime | entertainment
+666,N666,neutral,politics | entertainment | crime | environment
+667,N667,sadness | neutral,technology | environment | crime | health | entertainment | money
+668,N668,anger | neutral,environment | entertainment | crime | health
+669,N669,fear | neutral,environment | entertainment | crime | health
+670,N670,disgust | sadness | surprise | neutral | anger,sports | technology | environment | crime | entertainment
+671,N671,fear | neutral,environment | politics | crime | health | entertainment
+672,N672,sadness | joy | neutral,technology | environment | crime | health | entertainment | education | money
+673,N673,sadness | neutral,environment | entertainment | crime | health
+674,N674,disgust | neutral,environment | politics | crime | entertainment | money
+675,N675,anger | neutral,technology | environment | politics | crime | health | entertainment | money
+676,N676,neutral,technology | environment | entertainment | education | money
+677,N677,disgust | fear | neutral,environment | entertainment | crime
+678,N678,anger | neutral,technology | environment | politics | crime | entertainment | money
+679,N679,disgust | neutral,technology | environment | politics | crime | entertainment
+680,N680,sadness | neutral,sports | technology | environment | crime | health | entertainment | money
+681,N681,anger | fear | neutral,environment | politics | crime | entertainment | money
+682,N682,anger | sadness | neutral,technology | environment | politics | crime | entertainment | education | money
+683,N683,sadness | fear | neutral,technology | environment | crime | health | entertainment | education | money
+684,N684,disgust | anger | joy | neutral,technology | environment | crime | entertainment | money
+685,N685,joy | neutral,environment | entertainment | money | technology
+686,N686,neutral,environment | entertainment | money | crime
+687,N687,sadness | neutral,technology | crime | environment | entertainment | education
+688,N688,sadness | joy | neutral,environment | crime | health | entertainment | education
+689,N689,anger | fear | neutral,technology | politics | environment | crime | entertainment | money
+690,N690,disgust | sadness | fear | neutral,technology | environment | crime | politics | health | entertainment
+691,N691,anger | neutral,environment | entertainment | politics | money
+692,N692,neutral,technology | environment | entertainment | education | money
+693,N693,sadness | neutral,technology | environment | crime | health | entertainment | money
+694,N694,sadness | neutral,technology | environment | politics | entertainment | education | money
+695,N695,disgust | anger | neutral,environment | crime | politics | health | entertainment | money
+696,N696,anger | sadness | surprise | neutral,environment | entertainment | crime | technology
+697,N697,anger | fear | neutral,crime | entertainment | health | environment
+698,N698,fear | neutral,education | entertainment | money | environment
+699,N699,joy | neutral,environment | entertainment | sports
+700,N700,fear | neutral,education | entertainment | technology | environment
+701,N701,fear | neutral,environment | entertainment | education | technology
+702,N702,joy | neutral,environment | crime | health | entertainment | money
+703,N703,disgust | neutral,technology | environment | crime | health | entertainment | money
+704,N704,disgust | fear | sadness | neutral | anger,technology | environment | crime | politics | health | entertainment | money
+705,N705,disgust | anger | sadness | neutral,technology | politics | crime | environment | entertainment | education
+706,N706,anger | neutral,politics | crime | environment | entertainment | money
+707,N707,sadness | neutral,environment | entertainment | money | crime
+708,N708,fear | joy | neutral,technology | environment | crime | entertainment | education
+709,N709,sadness | neutral,crime | entertainment | environment | health
+710,N710,fear | neutral,technology | environment | entertainment | education | money
+711,N711,disgust | neutral,environment | politics | crime | health | entertainment
+712,N712,neutral,crime | entertainment | money | environment
+713,N713,sadness | neutral,environment | entertainment | crime
+714,N714,sadness | fear | neutral | surprise,environment | entertainment | crime | health
+715,N715,sadness | neutral,environment | health | entertainment | education | money
+716,N716,disgust | sadness | joy | neutral,environment | entertainment | technology
+717,N717,anger | sadness | joy | neutral,sports | environment | crime | entertainment | money
+718,N718,sadness | joy | neutral,sports | crime | politics | environment | entertainment | education | money
+719,N719,sadness | fear | neutral,technology | environment | politics | crime | entertainment
+720,N720,disgust | sadness | joy | neutral,technology | environment | health | entertainment | education | money
+721,N721,sadness | neutral,sports | technology | environment | health | entertainment | education | money
+722,N722,anger | surprise | neutral,environment | entertainment | crime
+723,N723,sadness | neutral,technology | environment | crime | entertainment | education | money
+724,N724,anger | joy | neutral,technology | environment | crime | politics | health | entertainment | education | money
+725,N725,fear | sadness | neutral,environment | entertainment | money | education
+726,N726,fear | sadness | neutral,technology | environment | health | entertainment | education | money
+727,N727,fear | neutral,technology | environment | politics | crime | entertainment
+728,N728,neutral,environment | entertainment | politics | money
+729,N729,anger | neutral,environment | crime | health | entertainment | education | money
+730,N730,anger | neutral,technology | crime | politics | environment | health | entertainment | education
+731,N731,disgust | anger | fear | neutral,sports | environment | crime | health | entertainment
+732,N732,disgust | surprise | neutral,politics | crime | environment | entertainment | money
+733,N733,anger | neutral,technology | environment | politics | crime | entertainment
+734,N734,anger | neutral,crime | entertainment | politics | environment
+735,N735,sadness | joy | neutral,environment | entertainment | sports | health
+736,N736,disgust | sadness | neutral,technology | environment | politics | health | entertainment | education
+737,N737,fear | joy | neutral,environment | entertainment | politics | health
+738,N738,neutral,environment | entertainment | politics | money
+739,N739,anger | sadness | neutral,environment | entertainment | politics | crime
+740,N740,neutral,technology | environment | politics | crime | entertainment | money
+741,N741,fear | surprise | neutral,environment | crime | health | entertainment | money
+742,N742,surprise | neutral,environment | entertainment | technology | health
+743,N743,sadness | neutral,technology | environment | crime | health | entertainment
+744,N744,surprise | neutral,environment | entertainment | politics | technology
+745,N745,sadness | neutral,technology | environment | politics | crime | entertainment
+746,N746,neutral,crime | politics | environment | entertainment | money
+747,N747,disgust | anger | fear | neutral,environment | entertainment | crime | health
+748,N748,anger | neutral,technology | environment | politics | health | entertainment | education
+749,N749,anger | neutral,sports | technology | environment | crime | entertainment
+750,N750,surprise | neutral,environment | politics | crime | health | entertainment | money
+751,N751,anger | sadness | neutral,environment | entertainment | money | technology
+752,N752,sadness | neutral,environment | entertainment | money | health
+753,N753,sadness | neutral,environment | entertainment | technology
+754,N754,neutral,sports | technology | environment | politics | crime | entertainment
+755,N755,sadness | neutral,technology | politics | environment | crime | entertainment | education
+756,N756,disgust | sadness | neutral,sports | environment | crime | health | entertainment
+757,N757,neutral,environment | entertainment | crime | technology
+758,N758,surprise | neutral,sports | environment | crime | health | entertainment
+759,N759,neutral,technology | environment | crime | health | entertainment | money
+760,N760,anger | fear | neutral,technology | environment | entertainment | education | money
+761,N761,joy | neutral,sports | technology | environment | entertainment | education | money
+762,N762,neutral,environment | entertainment | sports | technology
+763,N763,neutral,technology | crime | environment | entertainment | education | money
+764,N764,joy | neutral,technology | environment | crime | politics | entertainment | education | money
+765,N765,neutral,sports | technology | environment | crime | entertainment | money
+766,N766,anger | neutral,sports | technology | environment | entertainment | education | money
+767,N767,fear | surprise | neutral,sports | technology | environment | health | entertainment | money
+768,N768,neutral,technology | environment | crime | politics | health | entertainment | education | money
+769,N769,surprise | neutral,environment | entertainment | money | technology
+770,N770,sadness | neutral,technology | environment | crime | entertainment | education | money
+771,N771,joy | neutral,environment | entertainment | money | technology
+772,N772,neutral,sports | technology | environment | politics | health | entertainment
+773,N773,neutral,technology | environment | health | entertainment | money
+774,N774,sadness | neutral,sports | environment | crime | health | entertainment | education | money
+775,N775,neutral,sports | technology | environment | health | entertainment
+776,N776,neutral,environment | entertainment | money | technology
+777,N777,neutral,environment | entertainment | money
+778,N778,neutral,technology | environment | crime | entertainment | money
+779,N779,anger | neutral,environment | politics | entertainment | education | money
+780,N780,joy | neutral,environment | entertainment | money | technology
+781,N781,neutral,sports | technology | environment | crime | politics | health | entertainment
+782,N782,joy | neutral,environment | entertainment | sports | education
+783,N783,neutral,technology | environment | politics | entertainment | education | money
+784,N784,sadness | joy | neutral,environment | crime | health | entertainment | education
+785,N785,anger | fear | neutral,technology | environment | politics | health | entertainment | money
+786,N786,anger | sadness | neutral,technology | environment | politics | health | entertainment | education | money
+787,N787,joy | neutral,environment | entertainment | money | technology
+788,N788,neutral,environment | entertainment | money | crime
+789,N789,neutral,technology | environment | health | entertainment | money
+790,N790,disgust | neutral,crime | entertainment | technology | environment
+791,N791,anger | neutral,technology | environment | politics | crime | entertainment | money
+792,N792,neutral,technology | environment | crime | entertainment | money
+793,N793,sadness | joy | neutral,sports | technology | environment | health | entertainment | education
+794,N794,sadness | surprise | neutral | joy,technology | environment | entertainment | education | money
+795,N795,neutral,technology | environment | crime | health | entertainment | money
+796,N796,anger | sadness | joy | neutral,environment | crime | politics | health | entertainment | money
+797,N797,anger | sadness | surprise | neutral,technology | environment | crime | health | entertainment
+798,N798,surprise | neutral,technology | environment | politics | crime | health | entertainment | money
+799,N799,sadness | neutral,technology | environment | crime | health | entertainment | money
+800,N800,sadness | fear | neutral,technology | environment | entertainment | education | money
+801,N801,fear | neutral,technology | environment | crime | entertainment | money
+802,N802,sadness | joy | neutral,technology | environment | crime | health | entertainment
+803,N803,disgust | anger | neutral,environment | crime | entertainment | education | money
+804,N804,neutral,environment | entertainment | money | technology
+805,N805,sadness | joy | neutral,sports | technology | environment | health | entertainment | money
+806,N806,anger | sadness | joy | neutral,sports | technology | environment | crime | health | entertainment
+807,N807,neutral,sports | technology | environment | politics | entertainment
+808,N808,anger | neutral,technology | environment | health | entertainment | money
+809,N809,neutral,technology | environment | crime | entertainment | money
+810,N810,neutral,environment | entertainment | money | technology
+811,N811,disgust | neutral,technology | crime | environment | health | entertainment
+812,N812,anger | sadness | neutral,environment | entertainment | technology | health
+813,N813,anger | sadness | fear | neutral,technology | crime | environment | health | entertainment
+814,N814,neutral,politics | entertainment | technology | environment
+815,N815,sadness | neutral,politics | crime | environment | entertainment | education | money
+816,N816,anger | fear | sadness | neutral,environment | politics | crime | health | entertainment | money
+817,N817,disgust | fear | sadness | surprise | neutral,technology | crime | environment | health | entertainment
+818,N818,anger | sadness | fear | neutral,sports | technology | environment | crime | health | entertainment | money
+819,N819,fear | joy | neutral,environment | politics | crime | entertainment | money
+820,N820,disgust | anger | sadness | neutral,technology | environment | politics | crime | entertainment | money
+821,N821,fear | surprise | neutral,technology | environment | crime | health | entertainment
+822,N822,neutral,environment | health | entertainment | education | money
+823,N823,anger | neutral,environment | entertainment | crime | technology
+824,N824,anger | fear | neutral,sports | crime | politics | environment | entertainment | education
+825,N825,disgust | fear | sadness | joy | neutral | anger,environment | entertainment | money | crime
+826,N826,disgust | sadness | neutral,environment | entertainment | crime | health
+827,N827,sadness | neutral,sports | technology | crime | environment | health | entertainment
+828,N828,fear | neutral,technology | environment | crime | health | entertainment | money
+829,N829,anger | neutral,technology | environment | crime | health | entertainment | education | money
+830,N830,anger | sadness | neutral,crime | entertainment | sports | environment
+831,N831,anger | fear | sadness | neutral,sports | technology | environment | entertainment | education
+832,N832,sadness | neutral,technology | environment | crime | health | entertainment | money
+833,N833,neutral,technology | environment | politics | crime | entertainment
+834,N834,disgust | fear | neutral,technology | environment | crime | entertainment | money
+835,N835,sadness | joy | neutral,crime | environment | health | entertainment | money
+836,N836,anger | neutral,technology | crime | environment | health | entertainment | money
+837,N837,sadness | neutral,environment | entertainment | money
+838,N838,joy | neutral,technology | environment | health | entertainment | money
+839,N839,disgust | sadness | surprise | neutral | anger,technology | environment | crime | entertainment | money
+840,N840,anger | surprise | neutral,sports | technology | environment | crime | entertainment
+841,N841,anger | sadness | neutral,technology | crime | environment | health | entertainment | money
+842,N842,anger | surprise | joy | neutral,environment | entertainment | politics | money
+843,N843,sadness | neutral,environment | politics | crime | health | entertainment | money
+844,N844,sadness | neutral,technology | environment | politics | crime | entertainment | education
+845,N845,fear | sadness | joy | neutral | anger,crime | politics | environment | entertainment | money
+846,N846,anger | neutral,environment | entertainment | sports | money
+847,N847,anger | fear | neutral,sports | technology | politics | crime | environment | entertainment | money
+848,N848,anger | neutral,technology | crime | environment | health | entertainment
+849,N849,neutral,politics | environment | entertainment | education | money
+850,N850,anger | sadness | neutral,sports | technology | environment | crime | health | entertainment
+851,N851,neutral,environment | entertainment | technology
+852,N852,fear | joy | surprise | neutral | anger,environment | crime | politics | health | entertainment | money
+853,N853,fear | surprise | neutral,sports | technology | environment | crime | entertainment | money
+854,N854,sadness | neutral,crime | politics | environment | entertainment | money
+855,N855,anger | fear | sadness | neutral,technology | environment | politics | crime | entertainment | money
+856,N856,anger | fear | neutral,environment | politics | entertainment | education | money
+857,N857,neutral,technology | environment | politics | health | entertainment
+858,N858,anger | sadness | surprise | neutral,environment | entertainment | crime | technology
+859,N859,neutral,sports | crime | politics | environment | entertainment | money
+860,N860,anger | neutral,sports | technology | environment | crime | entertainment
+861,N861,disgust | fear | surprise | neutral | anger,technology | crime | environment | entertainment | money
+862,N862,sadness | neutral,environment | entertainment | crime | technology
+863,N863,neutral,technology | environment | politics | entertainment | education | money
+864,N864,anger | fear | neutral,environment | entertainment | crime | technology
+865,N865,anger | fear | joy | neutral,technology | environment | crime | entertainment | education
+866,N866,joy | neutral,technology | environment | politics | entertainment | education | money
+867,N867,anger | fear | neutral,crime | entertainment | politics | environment
+868,N868,anger | sadness | neutral,crime | entertainment | money | environment
+869,N869,disgust | neutral,environment | entertainment | technology
+870,N870,neutral,environment | entertainment | money | technology
+871,N871,sadness | neutral,sports | technology | environment | entertainment | education | money
+872,N872,disgust | fear | sadness | neutral | anger,technology | crime | environment | entertainment | money
+873,N873,disgust | anger | neutral,technology | crime | environment | entertainment | education | money
+874,N874,sadness | neutral,technology | politics | environment | entertainment | money
+875,N875,disgust | sadness | neutral,technology | environment | politics | crime | health | entertainment | education | money
+876,N876,fear | sadness | surprise | neutral,technology | environment | crime | entertainment | money
+877,N877,anger | fear | joy | neutral,environment | sports | money
+878,N878,sadness | neutral,environment | entertainment | money | technology
+879,N879,anger | fear | neutral,technology | environment | crime | entertainment | education | money
+880,N880,fear | neutral,sports | technology | environment | crime | health | entertainment | money
+881,N881,anger | fear | neutral,technology | environment | crime | entertainment | money
+882,N882,anger | joy | neutral,technology | environment | crime | entertainment | money
+883,N883,disgust | fear | neutral,technology | environment | politics | entertainment | money
+884,N884,neutral,environment | entertainment | sports
+885,N885,sadness | joy | neutral,technology | environment | politics | entertainment | money
+886,N886,disgust | neutral,sports | technology | environment | crime | entertainment | money
+887,N887,fear | neutral,sports | environment | crime | entertainment | money
+888,N888,fear | neutral,technology | environment | crime | health | entertainment | money
+889,N889,sadness | neutral,technology | environment | entertainment | education | money
+890,N890,fear | neutral,environment | entertainment | money | technology
+891,N891,anger | sadness | neutral,sports | environment | politics | health | entertainment
+892,N892,anger | neutral,technology | crime | politics | environment | health | entertainment | education | money
+893,N893,neutral,technology | environment | crime | entertainment | money
+894,N894,sadness | neutral,environment | entertainment | money | technology
+895,N895,anger | fear | neutral,environment | entertainment | money | health
+896,N896,neutral,technology | environment | politics | entertainment | money
+897,N897,neutral,technology | environment | entertainment | education | money
+898,N898,sadness | joy | neutral,technology | crime | environment | entertainment | education | money
+899,N899,sadness | neutral,environment | entertainment | money | technology
+900,N900,anger | fear | neutral,technology | environment | politics | entertainment | money
+901,N901,neutral,sports | technology | crime | environment | health | entertainment | money
+902,N902,neutral,sports | technology | environment | entertainment | money
+903,N903,fear | neutral,environment | entertainment | money | technology
+904,N904,fear | neutral,environment | entertainment | money | health
+905,N905,anger | sadness | neutral,technology | environment | crime | entertainment | money
+906,N906,sadness | joy | neutral,technology | environment | politics | health | entertainment | money
+907,N907,neutral,technology | environment | crime | entertainment | money
+908,N908,fear | joy | neutral,technology | environment | health | entertainment | money
+909,N909,neutral,technology | environment | crime | entertainment | money
+910,N910,anger | fear | neutral,technology | environment | crime | entertainment | education | money
+911,N911,neutral,sports | technology | environment | crime | entertainment | money
+912,N912,disgust | neutral,technology | environment | politics | health | entertainment | education | money
+913,N913,fear | sadness | neutral,technology | environment | entertainment | education | money
+914,N914,neutral,technology | environment | crime | entertainment | money
+915,N915,neutral,technology | environment | crime | entertainment | money
+916,N916,fear | joy | neutral,sports | technology | environment | entertainment | money
+917,N917,sadness | neutral,technology | environment | crime | entertainment | money
+918,N918,sadness | fear | neutral,technology | environment | crime | politics | health | entertainment | money
+919,N919,joy | neutral,sports | technology | environment | politics | entertainment | money
+920,N920,sadness | neutral,environment | entertainment | money | technology
+921,N921,neutral,technology | environment | crime | entertainment | money
+922,N922,anger | surprise | neutral,technology | environment | health | entertainment | education | money
+923,N923,fear | neutral,sports | environment | crime | entertainment | education | money
+924,N924,neutral,technology | environment | entertainment | education | money
+925,N925,fear | joy | neutral,environment | entertainment | money | technology
+926,N926,neutral,technology | crime | environment | entertainment | money
+927,N927,anger | sadness | neutral,environment | crime | health | entertainment | education
+928,N928,anger | sadness | fear | neutral,technology | crime | environment | health | entertainment | education
+929,N929,disgust | fear | sadness | neutral,sports | environment | crime | health | entertainment | money
+930,N930,disgust | fear | sadness | neutral,environment | entertainment | health
+931,N931,fear | sadness | neutral,technology | environment | crime | health | entertainment | money
+932,N932,fear | sadness | joy | neutral | anger,sports | technology | crime | environment | health | entertainment | education
+933,N933,anger | sadness | neutral,sports | technology | crime | politics | environment | health | entertainment
+934,N934,sadness | neutral,technology | environment | crime | health | entertainment
+935,N935,surprise | neutral,environment | entertainment | money | crime
+936,N936,disgust | fear | sadness | neutral,technology | environment | crime | politics | health | entertainment
+937,N937,sadness | joy | neutral,technology | environment | crime | health | entertainment
+938,N938,neutral,technology | crime | environment | health | entertainment
+939,N939,disgust | sadness | surprise | joy | neutral,environment | entertainment | education | health
+940,N940,disgust | sadness | surprise | neutral,environment | crime | health | entertainment | education
+941,N941,joy | neutral,technology | environment | health | entertainment | money
+942,N942,sadness | neutral,sports | technology | politics | environment | crime | health | entertainment | education
+943,N943,anger | sadness | neutral,environment | entertainment | money | crime
+944,N944,sadness | neutral,technology | environment | crime | health | entertainment | money
+945,N945,disgust | fear | sadness | surprise | neutral,technology | environment | crime | health | entertainment
+946,N946,neutral,sports | technology | politics | environment | health | entertainment | education
+947,N947,disgust | sadness | neutral,technology | environment | crime | health | entertainment
+948,N948,anger | sadness | neutral,crime | entertainment | health | environment
+949,N949,anger | neutral,technology | politics | crime | environment | health | entertainment | education
+950,N950,sadness | surprise | neutral,technology | environment | crime | health | entertainment | money
+951,N951,anger | sadness | joy | neutral,environment | crime | health | entertainment | money
+952,N952,disgust | fear | sadness | neutral | anger,sports | technology | environment | health | entertainment | money
+953,N953,disgust | sadness | neutral,environment | politics | crime | health | entertainment | money
+954,N954,fear | neutral,environment | entertainment | politics | crime
+955,N955,disgust | sadness | fear | neutral,technology | crime | environment | health | entertainment | education
+956,N956,anger | sadness | fear | neutral,crime | entertainment | environment | health
+957,N957,disgust | sadness | joy | neutral | anger,technology | environment | crime | politics | health | entertainment
+958,N958,sadness | neutral,environment | entertainment | money | health
+959,N959,neutral,technology | crime | environment | health | entertainment
+960,N960,neutral,sports | environment | health | entertainment | education
+961,N961,anger | sadness | neutral,sports | technology | environment | crime | health | entertainment
+962,N962,anger | sadness | neutral,sports | technology | environment | crime | entertainment
+963,N963,disgust | sadness | neutral,technology | environment | health | entertainment | education
+964,N964,disgust | fear | neutral,sports | crime | politics | health | entertainment
+965,N965,disgust | sadness | neutral,sports | environment | crime | health | entertainment
+966,N966,disgust | sadness | surprise | neutral,technology | environment | crime | politics | health | entertainment
+967,N967,fear | sadness | joy | surprise | neutral | anger,sports | environment | crime | politics | health | entertainment
+968,N968,anger | sadness | neutral,environment | entertainment | technology | crime
+969,N969,fear | sadness | joy | neutral | anger,environment | politics | crime | health | entertainment | money
+970,N970,disgust | fear | sadness | neutral,sports | environment | crime | health | entertainment
+971,N971,sadness | fear | neutral,environment | entertainment | technology | health
+972,N972,fear | sadness | neutral,technology | environment | crime | health | entertainment | education
+973,N973,anger | sadness | neutral,technology | crime | environment | health | entertainment | education | money
+974,N974,disgust | sadness | surprise | neutral,sports | environment | crime | health | entertainment
+975,N975,sadness | neutral,environment | entertainment | sports | health
+976,N976,disgust | neutral,technology | environment | crime | health | entertainment | education
+977,N977,anger | sadness | neutral,technology | environment | crime | health | entertainment
+978,N978,fear | sadness | surprise | neutral,technology | environment | crime | health | entertainment | education
+979,N979,disgust | sadness | neutral,technology | environment | crime | health | entertainment
+980,N980,disgust | sadness | fear | neutral,technology | crime | environment | health | entertainment | money
+981,N981,sadness | fear | neutral,sports | technology | crime | environment | health | entertainment | education | money
+982,N982,sadness | fear | neutral,environment | entertainment | crime | health
+983,N983,sadness | neutral,technology | crime | environment | health | entertainment
+984,N984,sadness | fear | neutral,technology | environment | crime | health | entertainment
+985,N985,disgust | anger | neutral,technology | environment | crime | health | entertainment | money
+986,N986,anger | neutral,technology | environment | politics | crime | entertainment | money
+987,N987,disgust | sadness | neutral,environment | crime | health | entertainment | money
+988,N988,neutral,environment | entertainment | technology | health
+989,N989,anger | sadness | fear | neutral,technology | environment | politics | crime | health | entertainment | money
+990,N990,anger | neutral,technology | environment | crime | health | entertainment
+991,N991,neutral,sports | technology | crime | politics | environment | entertainment | money
+992,N992,neutral,sports | technology | crime | environment | entertainment | education
+993,N993,disgust | sadness | surprise | neutral,environment | entertainment | technology
+994,N994,disgust | joy | neutral,technology | environment | health | entertainment | money
+995,N995,neutral,environment | entertainment | health
+996,N996,neutral,environment | entertainment | money | technology
+997,N997,neutral,technology | crime | environment | health | entertainment | money
+998,N998,neutral,environment | entertainment
+999,N999,neutral,technology | environment | politics | crime | entertainment | education | money
+1000,N1000,anger | neutral,technology | environment | crime | entertainment | money
+1001,N1001,sadness | joy | neutral,environment | entertainment | sports | health
+1002,N1002,neutral,politics | entertainment | environment
+1003,N1003,anger | sadness | surprise | neutral,environment | crime | entertainment | education | money
+1004,N1004,joy | neutral,environment | entertainment | politics
+1005,N1005,joy | neutral,sports | environment | crime | entertainment | money
+1006,N1006,fear | neutral,technology | environment | crime | entertainment | education
+1007,N1007,surprise | neutral,politics | entertainment | environment
+1008,N1008,sadness | neutral,technology | crime | environment | health | entertainment | money
+1009,N1009,sadness | neutral,crime | entertainment | money | environment
+1010,N1010,sadness | neutral,environment | entertainment | money | technology
+1011,N1011,disgust | sadness | neutral,technology | environment | crime | entertainment | money
+1012,N1012,disgust | anger | surprise | neutral,environment | entertainment | technology | crime
+1013,N1013,anger | neutral,technology | environment | crime | politics | entertainment | education | money
+1014,N1014,neutral,environment | entertainment | education | health
+1015,N1015,neutral,technology | environment | entertainment | education | money
+1016,N1016,sadness | joy | neutral,sports | technology | environment | entertainment | money
+1017,N1017,surprise | neutral,technology | environment | entertainment | education | money
+1018,N1018,surprise | neutral,environment | crime | politics | health | entertainment | education | money
+1019,N1019,anger | neutral,environment | entertainment | crime
+1020,N1020,anger | fear | neutral,environment | entertainment | crime | health
+1021,N1021,sadness | joy | neutral,technology | environment | crime | entertainment | education
+1022,N1022,disgust | neutral,environment | entertainment | money | health
+1023,N1023,disgust | fear | sadness | joy | surprise | neutral | anger,sports | technology | environment | crime | politics | health | entertainment | education | money
+1024,N1024,anger | joy | neutral,technology | crime | environment | entertainment | money
+1025,N1025,neutral,technology | environment | health | entertainment | education | money
+1026,N1026,disgust | fear | sadness | neutral | anger,technology | environment | politics | crime | health | entertainment
+1027,N1027,sadness | neutral,technology | environment | crime | entertainment | money
+1028,N1028,anger | sadness | neutral,technology | crime | environment | entertainment | education | money
+1029,N1029,fear | sadness | neutral,technology | environment | health | entertainment | education
+1030,N1030,sadness | neutral,sports | environment | crime | health | entertainment | money
+1031,N1031,anger | fear | sadness | neutral,crime | entertainment | politics | environment
+1032,N1032,disgust | sadness | neutral,environment | crime | health | entertainment | money
+1033,N1033,anger | sadness | fear | neutral,technology | environment | politics | health | entertainment | money
+1034,N1034,sadness | surprise | neutral,technology | environment | crime | health | entertainment
+1035,N1035,disgust | joy | neutral,environment | politics | crime | entertainment | education | money
+1036,N1036,disgust | sadness | neutral,technology | crime | environment | health | entertainment
+1037,N1037,anger | sadness | joy | neutral,sports | technology | crime | environment | health | entertainment | money
+1038,N1038,sadness | neutral,sports | technology | environment | crime | entertainment
+1039,N1039,anger | sadness | joy | neutral,technology | crime | environment | entertainment | education | money
+1040,N1040,sadness | fear | neutral,crime | environment | health | entertainment | education
+1041,N1041,sadness | joy | neutral,environment | entertainment | crime | health
+1042,N1042,sadness | neutral,sports | technology | environment | politics | health | entertainment | education
+1043,N1043,disgust | sadness | neutral,environment | entertainment | technology | crime
+1044,N1044,sadness | neutral,technology | environment | politics | crime | health | entertainment
+1045,N1045,disgust | anger | fear | neutral,technology | environment | politics | health | entertainment | money
+1046,N1046,fear | neutral,crime | politics | environment | entertainment | money
+1047,N1047,anger | sadness | neutral,technology | environment | crime | entertainment | money
+1048,N1048,disgust | sadness | neutral,technology | environment | crime | health | entertainment
+1049,N1049,sadness | surprise | neutral,environment | entertainment | money | technology
+1050,N1050,disgust | anger | sadness | neutral,environment | entertainment | crime | health
+1051,N1051,sadness | neutral,sports | environment | crime | entertainment | education | money
+1052,N1052,anger | sadness | neutral,environment | entertainment | crime | technology
+1053,N1053,anger | sadness | surprise | neutral,sports | crime | environment | politics | health | entertainment | money
+1054,N1054,anger | sadness | neutral,environment | entertainment | crime
+1055,N1055,anger | sadness | neutral,environment | entertainment | sports | politics
+1056,N1056,anger | neutral,environment | entertainment | crime | technology
+1057,N1057,fear | sadness | neutral,politics | entertainment | crime | environment
+1058,N1058,fear | surprise | neutral,environment | politics | crime | health | entertainment | money
+1059,N1059,neutral,crime | entertainment | health | environment
+1060,N1060,sadness | joy | neutral,politics | environment | entertainment | education | money
+1061,N1061,sadness | neutral,technology | environment | health | entertainment | money
+1062,N1062,fear | sadness | neutral,crime | entertainment | environment | health
+1063,N1063,anger | sadness | neutral,environment | entertainment | technology | health
+1064,N1064,fear | sadness | surprise | neutral,sports | politics | crime | environment | entertainment | education
+1065,N1065,sadness | neutral,environment | entertainment | money | health
+1066,N1066,disgust | sadness | neutral,environment | entertainment | technology
+1067,N1067,disgust | fear | sadness | neutral | anger,technology | environment | crime | entertainment | education | money
+1068,N1068,sadness | fear | neutral,sports | technology | crime | politics | environment | entertainment
+1069,N1069,sadness | neutral,sports | technology | crime | environment | health | entertainment | education | money
+1070,N1070,sadness | neutral,technology | crime | environment | entertainment | money
+1071,N1071,sadness | joy | surprise | neutral | anger,technology | environment | crime | health | entertainment
+1072,N1072,fear | sadness | neutral,crime | entertainment | politics | environment
+1073,N1073,sadness | neutral,environment | entertainment | money | technology
+1074,N1074,sadness | fear | neutral | surprise,sports | environment | crime | health | entertainment
+1075,N1075,sadness | neutral,environment | entertainment | crime
+1076,N1076,anger | sadness | neutral,technology | environment | crime | health | entertainment | money
+1077,N1077,disgust | anger | fear | neutral,sports | crime | environment | health | entertainment | education | money
+1078,N1078,neutral,environment | health | entertainment | education | money
+1079,N1079,disgust | neutral,sports | technology | environment | crime | health | entertainment
+1080,N1080,disgust | neutral,sports | technology | environment | crime | health | entertainment | education | money
+1081,N1081,disgust | anger | neutral,sports | technology | environment | crime | health | entertainment | education
+1082,N1082,sadness | neutral,environment | politics | health | entertainment | education
+1083,N1083,disgust | neutral,technology | crime | environment | health | entertainment
+1084,N1084,sadness | surprise | neutral,technology | environment | crime | health | entertainment | education
+1085,N1085,anger | sadness | fear | neutral,technology | crime | environment | health | entertainment | education
+1086,N1086,fear | sadness | neutral | surprise,technology | crime | environment | health | entertainment | education
+1087,N1087,disgust | sadness | fear | neutral,sports | technology | environment | crime | health | entertainment
+1088,N1088,sadness | neutral,sports | technology | environment | crime | health | entertainment | education
+1089,N1089,disgust | fear | sadness | neutral | anger,technology | environment | crime | health | entertainment | education
+1090,N1090,neutral,sports | technology | environment | crime | entertainment | education | money
+1091,N1091,anger | fear | neutral,technology | environment | crime | health | entertainment | education | money
+1092,N1092,anger | neutral,sports | technology | environment | crime | health | entertainment | education | money
+1093,N1093,surprise | neutral,crime | environment | health | entertainment | education
+1094,N1094,sadness | neutral,environment | crime | health | entertainment | education | money
+1095,N1095,disgust | sadness | neutral,environment | entertainment | technology | health
+1096,N1096,disgust | neutral,sports | technology | environment | crime | health | entertainment | education | money
+1097,N1097,fear | sadness | neutral,technology | environment | crime | health | entertainment | education
+1098,N1098,fear | joy | neutral,technology | environment | health | entertainment | education | money
+1099,N1099,sadness | neutral,technology | environment | crime | health | entertainment
+1100,N1100,anger | neutral,environment | entertainment | money | technology
+1101,N1101,disgust | sadness | fear | neutral,technology | environment | crime | health | entertainment
+1102,N1102,neutral,technology | environment | politics | entertainment | education | money
+1103,N1103,sadness | neutral,technology | environment | health | entertainment | education
+1104,N1104,neutral,environment | entertainment | politics | technology
+1105,N1105,neutral,technology | environment | health | entertainment | education | money
+1106,N1106,neutral,technology | environment | entertainment | education | money
+1107,N1107,disgust | sadness | neutral,environment | crime | health | entertainment | education | money
+1108,N1108,anger | sadness | neutral,technology | environment | crime | health | entertainment | money
+1109,N1109,sadness | neutral,technology | environment | health | entertainment | education
+1110,N1110,fear | sadness | neutral,environment | crime | health | entertainment | education
+1111,N1111,fear | neutral,technology | environment | politics | health | entertainment | education
+1112,N1112,anger | neutral,sports | technology | environment | politics | crime | entertainment | education
+1113,N1113,disgust | sadness | fear | neutral,technology | environment | health | entertainment | education | money
+1114,N1114,sadness | joy | neutral,technology | environment | crime | health | entertainment | education
+1115,N1115,disgust | fear | neutral,sports | technology | crime | environment | politics | health | entertainment | education | money
+1116,N1116,disgust | sadness | neutral,sports | technology | environment | health | entertainment
+1117,N1117,disgust | neutral,sports | technology | environment | crime | health | entertainment | education
+1118,N1118,anger | fear | sadness | neutral,sports | technology | environment | crime | health | entertainment | education | money
+1119,N1119,fear | sadness | neutral,technology | crime | environment | health | entertainment | education
+1120,N1120,fear | sadness | neutral,technology | environment | crime | politics | health | entertainment | education
+1121,N1121,sadness | neutral,technology | environment | health | entertainment | money
+1122,N1122,disgust | sadness | neutral,technology | environment | health | entertainment | education
+1123,N1123,disgust | anger | sadness | neutral,environment | entertainment | crime | health
+1124,N1124,disgust | sadness | neutral,technology | crime | environment | health | entertainment | money
+1125,N1125,disgust | fear | sadness | neutral | anger,environment | entertainment | education | health
+1126,N1126,anger | fear | surprise | neutral,technology | environment | entertainment | education | money
+1127,N1127,sadness | fear | neutral,sports | technology | environment | health | entertainment | money
+1128,N1128,anger | neutral,technology | environment | crime | politics | entertainment | education
+1129,N1129,fear | neutral,technology | crime | environment | health | entertainment | education | money
+1130,N1130,anger | joy | neutral,technology | environment | politics | health | entertainment | education | money
+1131,N1131,disgust | joy | neutral,technology | environment | crime | politics | entertainment | education
+1132,N1132,disgust | sadness | neutral,technology | crime | environment | health | entertainment | education | money
+1133,N1133,disgust | sadness | neutral,technology | crime | environment | health | entertainment
+1134,N1134,sadness | fear | neutral,sports | technology | crime | environment | health | entertainment
+1135,N1135,sadness | fear | neutral,sports | technology | environment | crime | health | entertainment | education
+1136,N1136,fear | sadness | neutral,sports | technology | environment | crime | health | entertainment | education
+1137,N1137,fear | sadness | neutral,sports | technology | environment | crime | health | entertainment | money
+1138,N1138,sadness | neutral,technology | environment | crime | health | entertainment | money
+1139,N1139,fear | joy | neutral,sports | technology | environment | crime | health | entertainment | education
+1140,N1140,sadness | neutral,technology | environment | crime | entertainment | money
+1141,N1141,disgust | sadness | neutral,technology | environment | health | entertainment | education
+1142,N1142,joy | neutral,technology | environment | crime | health | entertainment | money
+1143,N1143,anger | fear | neutral,technology | crime | environment | politics | health | entertainment | money
+1144,N1144,sadness | joy | neutral,environment | crime | health | entertainment | money
+1145,N1145,neutral,technology | environment | politics | crime | entertainment | money
+1146,N1146,anger | sadness | neutral,technology | environment | health | entertainment | education
+1147,N1147,sadness | neutral,technology | environment | crime | politics | health | entertainment | education
+1148,N1148,neutral,environment | entertainment | sports | technology
+1149,N1149,neutral,environment | entertainment | money | technology
+1150,N1150,neutral,technology | environment | crime | health | entertainment
+1151,N1151,anger | neutral,technology | environment | politics | crime | health | entertainment | money
+1152,N1152,fear | neutral,environment | entertainment | money | technology
+1153,N1153,fear | neutral,sports | technology | environment | politics | crime | entertainment | education
+1154,N1154,neutral,sports | technology | environment | crime | entertainment | education
+1155,N1155,anger | neutral,crime | entertainment | technology | environment
+1156,N1156,surprise | neutral,environment | entertainment | crime | technology
+1157,N1157,disgust | neutral,technology | environment | health | entertainment | money
+1158,N1158,disgust | sadness | neutral,technology | environment | crime | health | entertainment | money
+1159,N1159,anger | neutral,sports | technology | environment | crime | health | entertainment
+1160,N1160,sadness | fear | neutral,technology | environment | crime | health | entertainment | money
+1161,N1161,fear | joy | neutral,environment | entertainment | education | technology
+1162,N1162,surprise | neutral,technology | environment | crime | entertainment | money
+1163,N1163,disgust | sadness | neutral,technology | environment | crime | health | entertainment
+1164,N1164,disgust | neutral,technology | environment | health | entertainment | money
+1165,N1165,fear | neutral,environment | entertainment | money | technology
+1166,N1166,neutral,technology | environment | health | entertainment | education | money
+1167,N1167,anger | neutral,sports | technology | environment | crime | health | entertainment | education | money
+1168,N1168,anger | neutral,environment | entertainment | technology | crime
+1169,N1169,anger | sadness | neutral,technology | politics | environment | health | entertainment | education | money
+1170,N1170,fear | joy | neutral | surprise,sports | technology | environment | entertainment | education
+1171,N1171,anger | sadness | neutral,environment | entertainment | politics | technology
+1172,N1172,surprise | neutral,technology | environment | entertainment | education | money
+1173,N1173,disgust | neutral,technology | environment | health | entertainment | money
+1174,N1174,sadness | neutral,environment | entertainment | technology
+1175,N1175,sadness | neutral,technology | environment | health | entertainment | money
+1176,N1176,sadness | neutral,sports | technology | environment | health | entertainment | education
+1177,N1177,disgust | fear | sadness | joy | surprise | neutral | anger,sports | technology | politics | environment | entertainment | money
+1178,N1178,fear | surprise | neutral,sports | technology | environment | politics | entertainment | education | money
+1179,N1179,disgust | fear | neutral,technology | environment | health | entertainment | education
+1180,N1180,anger | neutral,technology | environment | politics | crime | health | entertainment
+1181,N1181,neutral,environment | entertainment | technology
+1182,N1182,sadness | fear | neutral,technology | environment | crime | health | entertainment | money
+1183,N1183,fear | neutral,sports | technology | environment | crime | entertainment | education | money
+1184,N1184,sadness | neutral,technology | environment | crime | health | entertainment | education | money
+1185,N1185,disgust | fear | surprise | neutral,technology | environment | crime | entertainment | education
+1186,N1186,disgust | anger | neutral,sports | technology | environment | crime | entertainment | money
+1187,N1187,fear | surprise | neutral,technology | environment | crime | entertainment | money
+1188,N1188,fear | sadness | neutral,sports | technology | environment | politics | entertainment | education | money
+1189,N1189,sadness | neutral,environment | entertainment | technology | health
+1190,N1190,anger | neutral,technology | environment | crime | health | entertainment | education | money
+1191,N1191,anger | neutral,technology | environment | politics | crime | entertainment | money
+1192,N1192,neutral,technology | politics | environment | entertainment | education | money
+1193,N1193,sadness | neutral,politics | entertainment | health | environment
+1194,N1194,fear | sadness | joy | neutral,environment | entertainment | crime | technology
+1195,N1195,neutral,sports | technology | politics | environment | entertainment
+1196,N1196,disgust | neutral,technology | environment | politics | crime | entertainment | money
+1197,N1197,sadness | joy | neutral,environment | entertainment
+1198,N1198,anger | neutral,technology | environment | crime | entertainment | education | money
+1199,N1199,neutral,technology | environment | politics | health | entertainment
+1200,N1200,joy | neutral,technology | politics | environment | entertainment | education
+1201,N1201,sadness | neutral,technology | environment | health | entertainment | money
+1202,N1202,disgust | neutral,environment | entertainment | crime | technology
+1203,N1203,joy | neutral,technology | politics | environment | health | entertainment
+1204,N1204,anger | sadness | neutral,technology | politics | crime | environment | entertainment | money
+1205,N1205,neutral,technology | environment | politics | entertainment | education | money
+1206,N1206,neutral,technology | politics | environment | health | entertainment
+1207,N1207,anger | neutral,technology | environment | crime | entertainment | money
+1208,N1208,anger | sadness | neutral,sports | technology | environment | politics | entertainment | money
+1209,N1209,anger | fear | neutral,sports | technology | environment | crime | entertainment
+1210,N1210,fear | sadness | neutral,technology | environment | politics | entertainment | money
+1211,N1211,disgust | joy | neutral,technology | environment | politics | crime | health | entertainment | money
+1212,N1212,fear | surprise | neutral,environment | entertainment | crime
+1213,N1213,anger | neutral,technology | environment | politics | crime | entertainment | money
+1214,N1214,disgust | sadness | joy | neutral,technology | environment | crime | entertainment | education
+1215,N1215,anger | sadness | surprise | neutral,technology | environment | crime | health | entertainment | money
+1216,N1216,joy | neutral,technology | environment | politics | crime | entertainment | education | money
+1217,N1217,anger | fear | neutral,environment | entertainment | technology | crime
+1218,N1218,disgust | anger | sadness | neutral,technology | environment | politics | crime | entertainment
+1219,N1219,disgust | neutral,technology | environment | crime | politics | entertainment | money
+1220,N1220,disgust | surprise | neutral,technology | environment | crime | politics | health | entertainment | money
+1221,N1221,disgust | sadness | joy | neutral,technology | environment | politics | crime | health | entertainment | money
+1222,N1222,disgust | neutral,technology | environment | politics | crime | health | entertainment | education | money
+1223,N1223,anger | neutral,technology | environment | crime | politics | entertainment | money
+1224,N1224,fear | joy | neutral,sports | technology | environment | politics | entertainment | education
+1225,N1225,sadness | neutral,technology | environment | politics | crime | entertainment | money
+1226,N1226,disgust | fear | neutral,technology | politics | crime | environment | entertainment | money
+1227,N1227,sadness | neutral,technology | environment | politics | entertainment | money
+1228,N1228,anger | sadness | neutral,technology | environment | politics | health | entertainment
+1229,N1229,sadness | joy | neutral,sports | technology | politics | crime | environment | entertainment | money
+1230,N1230,disgust | sadness | neutral,technology | environment | crime | politics | entertainment | money
+1231,N1231,disgust | neutral,environment | politics | crime | entertainment | money
+1232,N1232,disgust | anger | neutral,technology | environment | crime | health | entertainment
+1233,N1233,fear | sadness | joy | neutral,technology | environment | politics | crime | entertainment
+1234,N1234,sadness | neutral,technology | politics | crime | environment | entertainment | education
+1235,N1235,disgust | neutral,technology | environment | crime | politics | entertainment | money
+1236,N1236,anger | neutral,environment | entertainment | politics | technology
+1237,N1237,sadness | neutral,technology | environment | crime | health | entertainment | money
+1238,N1238,anger | neutral,sports | technology | environment | politics | entertainment
+1239,N1239,disgust | anger | fear | neutral,sports | technology | environment | politics | crime | entertainment
+1240,N1240,sadness | neutral,environment | politics | crime | entertainment | education | money
+1241,N1241,disgust | anger | surprise | neutral,sports | technology | environment | politics | crime | health | entertainment
+1242,N1242,anger | fear | neutral,technology | environment | crime | entertainment | money
+1243,N1243,joy | neutral,technology | environment | politics | health | entertainment | education
+1244,N1244,disgust | sadness | joy | neutral,technology | politics | environment | entertainment | money
+1245,N1245,anger | sadness | neutral,environment | entertainment | politics
+1246,N1246,anger | sadness | neutral,technology | environment | politics | crime | entertainment
+1247,N1247,anger | neutral,sports | technology | environment | crime | politics | entertainment | money
+1248,N1248,fear | neutral,technology | environment | politics | health | entertainment
+1249,N1249,anger | neutral,technology | environment | crime | entertainment | money
+1250,N1250,surprise | neutral,sports | technology | environment | entertainment | money
+1251,N1251,neutral,technology | environment | crime | entertainment | money
+1252,N1252,neutral,environment | entertainment | money | technology
+1253,N1253,disgust | fear | joy | neutral | anger,technology | environment | entertainment | education | money
+1254,N1254,anger | neutral,technology | crime | environment | entertainment | money
+1255,N1255,disgust | sadness | surprise | neutral | anger,technology | environment | health | entertainment | education | money
+1256,N1256,anger | fear | sadness | neutral,technology | crime | environment | entertainment | money
+1257,N1257,sadness | fear | neutral,technology | environment | crime | entertainment | education | money
+1258,N1258,fear | sadness | surprise | neutral,technology | environment | health | entertainment | education
+1259,N1259,anger | neutral,environment | entertainment | sports | technology
+1260,N1260,disgust | sadness | joy | neutral | anger,environment | entertainment | money | crime
+1261,N1261,neutral,technology | environment | crime | entertainment | money
+1262,N1262,anger | neutral,technology | environment | politics | crime | entertainment | money
+1263,N1263,neutral,technology | environment | crime | entertainment | money
+1264,N1264,fear | sadness | neutral,technology | environment | entertainment | education | money
+1265,N1265,joy | neutral,sports | technology | environment | entertainment | education | money
+1266,N1266,sadness | neutral,technology | environment | crime | health | entertainment | money
+1267,N1267,sadness | fear | neutral,environment | entertainment | money | crime
+1268,N1268,fear | sadness | neutral,crime | environment | health | entertainment | money
+1269,N1269,sadness | fear | neutral,crime | environment | health | entertainment | money
+1270,N1270,disgust | anger | surprise | neutral,sports | environment | politics | crime | health | entertainment
+1271,N1271,disgust | sadness | joy | neutral,environment | crime | health | entertainment | education
+1272,N1272,disgust | surprise | neutral,environment | entertainment | money | health
+1273,N1273,anger | sadness | neutral,environment | entertainment | politics | technology
+1274,N1274,joy | neutral,technology | environment | politics | health | entertainment | education
+1275,N1275,disgust | sadness | neutral,environment | entertainment | crime
+1276,N1276,disgust | neutral,sports | environment | politics | health | entertainment | education | money
+1277,N1277,sadness | neutral,sports | technology | environment | crime | entertainment | education | money
+1278,N1278,disgust | joy | neutral,sports | politics | environment | crime | entertainment | money
+1279,N1279,disgust | anger | neutral,technology | environment | politics | crime | health | entertainment | money
+1280,N1280,fear | neutral,sports | technology | environment | crime | health | entertainment | money
+1281,N1281,neutral,sports | technology | environment | health | entertainment | money
+1282,N1282,anger | sadness | fear | neutral,technology | environment | crime | health | entertainment
+1283,N1283,sadness | neutral,technology | environment | crime | health | entertainment | money
+1284,N1284,disgust | anger | joy | neutral,crime | entertainment | money | environment
+1285,N1285,fear | sadness | neutral,sports | technology | environment | crime | health | entertainment | money
+1286,N1286,sadness | surprise | neutral,technology | crime | environment | health | entertainment | money
+1287,N1287,disgust | sadness | joy | neutral | anger,environment | entertainment | crime
+1288,N1288,sadness | joy | neutral,environment | entertainment | money | technology
+1289,N1289,sadness | neutral,sports | technology | environment | health | entertainment
+1290,N1290,anger | fear | neutral,sports | technology | crime | environment | entertainment | money
+1291,N1291,disgust | neutral,sports | technology | environment | crime | entertainment | money
+1292,N1292,fear | surprise | neutral,technology | environment | crime | entertainment | money
+1293,N1293,anger | sadness | surprise | neutral,environment | entertainment | money | technology
+1294,N1294,anger | sadness | neutral,environment | crime | health | entertainment | money
+1295,N1295,neutral,sports | technology | crime | environment | entertainment | education | money
+1296,N1296,anger | sadness | neutral,technology | crime | environment | health | entertainment | money
+1297,N1297,anger | sadness | joy | neutral,technology | crime | politics | environment | health | entertainment | education
+1298,N1298,neutral,sports | technology | environment | health | entertainment | money
+1299,N1299,anger | neutral,technology | environment | crime | health | entertainment | money
+1300,N1300,sadness | joy | neutral,environment | entertainment | crime | technology
+1301,N1301,neutral,sports | environment | politics | crime | health | entertainment | money
+1302,N1302,anger | fear | joy | neutral,technology | environment | health | entertainment | education | money
+1303,N1303,anger | sadness | joy | neutral,technology | environment | crime | health | entertainment
+1304,N1304,sadness | fear | neutral | joy,technology | environment | health | entertainment | education | money
+1305,N1305,neutral,environment | entertainment | sports | technology
+1306,N1306,anger | fear | sadness | neutral,crime | environment | entertainment | education | money
+1307,N1307,sadness | neutral,sports | environment | crime | entertainment | money
+1308,N1308,anger | fear | sadness | neutral,environment | entertainment | politics | crime
+1309,N1309,joy | neutral,environment | entertainment | sports | technology
+1310,N1310,anger | sadness | neutral,politics | crime | environment | entertainment | money
+1311,N1311,anger | sadness | fear | neutral,environment | entertainment | crime
+1312,N1312,joy | neutral,technology | politics | crime | environment | entertainment
+1313,N1313,fear | sadness | surprise | neutral,sports | technology | environment | crime | entertainment | education
+1314,N1314,disgust | fear | joy | neutral,sports | technology | crime | environment | health | entertainment | education
+1315,N1315,fear | sadness | surprise | neutral | anger,technology | crime | politics | environment | health | entertainment | education
+1316,N1316,sadness | neutral,environment | entertainment | politics
+1317,N1317,anger | neutral,environment | entertainment | education | crime
+1318,N1318,sadness | neutral,sports | technology | environment | health | entertainment
+1319,N1319,anger | surprise | joy | neutral,technology | environment | crime | health | entertainment | education
+1320,N1320,fear | sadness | neutral,environment | entertainment | education
+1321,N1321,sadness | neutral,environment | entertainment | sports | money
+1322,N1322,disgust | sadness | neutral,environment | entertainment | health
+1323,N1323,fear | sadness | joy | neutral,technology | environment | crime | health | entertainment | education
+1324,N1324,sadness | joy | neutral,environment | entertainment | sports | health
+1325,N1325,sadness | neutral,environment | politics | crime | health | entertainment | education | money
+1326,N1326,disgust | surprise | neutral,sports | technology | environment | crime | entertainment | education
+1327,N1327,sadness | neutral,sports | technology | environment | entertainment | education
+1328,N1328,anger | neutral,sports | crime | politics | environment | entertainment | money
+1329,N1329,sadness | neutral,sports | environment | crime | entertainment | education
+1330,N1330,sadness | joy | neutral,environment | entertainment
+1331,N1331,fear | surprise | neutral,environment | entertainment | money | technology
+1332,N1332,joy | neutral,sports | technology | environment | crime | entertainment
+1333,N1333,disgust | fear | sadness | joy | neutral,technology | environment | crime | health | entertainment | education
+1334,N1334,neutral,technology | environment | politics | crime | entertainment
+1335,N1335,disgust | sadness | joy | neutral,environment | entertainment | money | crime
+1336,N1336,sadness | joy | neutral,environment | entertainment | money | crime
+1337,N1337,sadness | joy | neutral,environment | entertainment | crime
+1338,N1338,anger | fear | sadness | neutral,sports | crime | politics | environment | entertainment
+1339,N1339,sadness | neutral,environment | entertainment | sports | money
+1340,N1340,disgust | neutral,environment | entertainment | crime | health
+1341,N1341,sadness | neutral,environment | entertainment | politics | money
+1342,N1342,sadness | neutral,environment | entertainment | politics | money
+1343,N1343,surprise | joy | neutral,environment | entertainment | money | technology
+1344,N1344,fear | surprise | neutral,sports | technology | environment | politics | crime | health | entertainment | money
+1345,N1345,sadness | neutral,technology | environment | health | entertainment | education
+1346,N1346,sadness | surprise | neutral | joy,technology | environment | crime | entertainment | money
+1347,N1347,anger | neutral,politics | entertainment | crime | environment
+1348,N1348,neutral,environment | entertainment | education
+1349,N1349,neutral,environment | entertainment | politics
+1350,N1350,fear | sadness | neutral,technology | environment | politics | crime | entertainment | education | money
+1351,N1351,fear | sadness | joy | surprise | neutral,technology | environment | entertainment | education | money
+1352,N1352,fear | sadness | joy | neutral,technology | environment | politics | entertainment | education
+1353,N1353,sadness | neutral,environment | entertainment | sports | technology
+1354,N1354,sadness | fear | neutral,environment | entertainment | money | crime
+1355,N1355,sadness | neutral,technology | environment | crime | politics | entertainment | education
+1356,N1356,anger | neutral,environment | politics | crime | entertainment | money
+1357,N1357,surprise | joy | neutral,environment | entertainment | money | education
+1358,N1358,sadness | joy | neutral,environment | entertainment | education | health
+1359,N1359,sadness | fear | neutral,technology | environment | entertainment | education | money
+1360,N1360,sadness | neutral,politics | crime | environment | entertainment | education
+1361,N1361,sadness | neutral,environment | crime | politics | health | entertainment | education | money
+1362,N1362,anger | neutral,technology | environment | politics | crime | entertainment | money
+1363,N1363,anger | surprise | neutral | joy,education | entertainment | money | environment
+1364,N1364,anger | fear | sadness | neutral,technology | environment | politics | crime | entertainment | education
+1365,N1365,neutral,environment | entertainment | money | health
+1366,N1366,neutral,environment | entertainment | education | crime
+1367,N1367,neutral,crime | entertainment | environment
+1368,N1368,anger | neutral,technology | politics | environment | crime | health | entertainment | money
+1369,N1369,disgust | neutral,environment | politics | crime | health | entertainment | education
+1370,N1370,disgust | neutral,technology | environment | crime | entertainment | education
+1371,N1371,fear | neutral,technology | politics | environment | health | entertainment | money
+1372,N1372,sadness | joy | neutral,sports | technology | crime | environment | health | entertainment | education | money
+1373,N1373,anger | sadness | neutral,environment | entertainment | sports
+1374,N1374,sadness | neutral,technology | environment | crime | entertainment | money
+1375,N1375,fear | neutral,environment | entertainment | money | technology
+1376,N1376,neutral,technology | environment | politics | entertainment | money
+1377,N1377,anger | sadness | neutral,technology | environment | politics | entertainment | education | money
+1378,N1378,sadness | neutral,environment | entertainment | crime | health
+1379,N1379,anger | joy | neutral,technology | environment | politics | entertainment | money
+1380,N1380,neutral,sports | crime | environment | entertainment | money
+1381,N1381,sadness | neutral,environment | entertainment | money | technology
+1382,N1382,disgust | neutral,sports | technology | environment | crime | entertainment | money
+1383,N1383,sadness | neutral,technology | environment | entertainment | education | money
+1384,N1384,sadness | neutral,technology | environment | crime | entertainment | money
+1385,N1385,fear | sadness | joy | neutral,technology | environment | crime | politics | entertainment | money
+1386,N1386,sadness | fear | neutral,technology | crime | environment | entertainment | education | money
+1387,N1387,fear | neutral,crime | environment | health | entertainment | education
+1388,N1388,fear | neutral,technology | environment | politics | crime | entertainment | money
+1389,N1389,sadness | neutral,technology | environment | politics | entertainment | money
+1390,N1390,sadness | neutral,environment | crime | politics | entertainment | education | money
+1391,N1391,joy | neutral,sports | technology | environment | health | entertainment | money
+1392,N1392,fear | neutral,sports | technology | environment | politics | crime | entertainment | education | money
+1393,N1393,neutral,technology | politics | crime | environment | entertainment | money
+1394,N1394,sadness | neutral,sports | technology | environment | politics | crime | health | entertainment | money
+1395,N1395,neutral,sports | technology | environment | crime | entertainment
+1396,N1396,anger | sadness | neutral,technology | environment | politics | crime | entertainment | money
+1397,N1397,sadness | neutral,technology | environment | crime | entertainment | education | money
+1398,N1398,anger | neutral,sports | technology | environment | entertainment | money
+1399,N1399,disgust | neutral,technology | environment | crime | entertainment | money
+1400,N1400,disgust | anger | fear | neutral,technology | crime | environment | politics | health | entertainment | money
+1401,N1401,anger | surprise | neutral,technology | environment | politics | crime | entertainment
+1402,N1402,neutral,sports | technology | environment | crime | entertainment | education | money
+1403,N1403,disgust | sadness | surprise | neutral | anger,environment | entertainment | crime | technology
+1404,N1404,anger | fear | neutral,technology | environment | politics | health | entertainment | money
+1405,N1405,disgust | neutral,technology | environment | crime | entertainment | money
+1406,N1406,sadness | surprise | neutral,environment | entertainment | money | technology
+1407,N1407,anger | fear | neutral,technology | environment | crime | health | entertainment | money
+1408,N1408,neutral,technology | environment | politics | health | entertainment | money
+1409,N1409,fear | sadness | neutral,environment | crime | health | entertainment | education | money
+1410,N1410,sadness | joy | neutral,crime | environment | health | entertainment | education | money
+1411,N1411,sadness | neutral,environment | entertainment | money | crime
+1412,N1412,disgust | sadness | fear | neutral,sports | technology | environment | politics | crime | health | entertainment | money
+1413,N1413,sadness | neutral,environment | entertainment | money | crime
+1414,N1414,fear | neutral,environment | entertainment | money | technology
+1415,N1415,sadness | neutral,technology | environment | politics | entertainment | money
+1416,N1416,neutral,environment | entertainment | money | technology
+1417,N1417,anger | sadness | neutral,environment | entertainment | money | technology
+1418,N1418,fear | neutral,environment | politics | health | entertainment | money
+1419,N1419,anger | sadness | neutral,technology | environment | crime | entertainment | money
+1420,N1420,neutral,environment | entertainment | money | technology
+1421,N1421,anger | neutral,crime | entertainment | technology | environment
+1422,N1422,fear | neutral,technology | environment | crime | politics | health | entertainment | money
+1423,N1423,neutral,sports | technology | politics | crime | environment | health | entertainment | money
+1424,N1424,anger | neutral,environment | politics | crime | entertainment | education | money
+1425,N1425,disgust | neutral,sports | technology | environment | crime | politics | entertainment | money
+1426,N1426,fear | sadness | neutral,technology | crime | environment | health | entertainment | education | money
+1427,N1427,neutral,sports | technology | politics | environment | crime | entertainment | money
+1428,N1428,disgust | neutral,politics | crime | environment | entertainment | money
+1429,N1429,sadness | fear | neutral,environment | politics | crime | entertainment | money
+1430,N1430,fear | neutral,technology | environment | politics | health | entertainment | money
+1431,N1431,neutral,technology | environment | crime | entertainment | money
+1432,N1432,disgust | anger | neutral,technology | crime | environment | health | entertainment | education | money
+1433,N1433,joy | neutral,technology | environment | politics | crime | entertainment | money
+1434,N1434,anger | neutral,environment | politics | crime | entertainment | money
+1435,N1435,neutral,technology | politics | environment | entertainment | money
+1436,N1436,anger | neutral,technology | politics | crime | environment | entertainment | money
+1437,N1437,disgust | neutral,technology | crime | environment | politics | health | entertainment | money
+1438,N1438,neutral,technology | politics | crime | environment | entertainment | money
+1439,N1439,joy | neutral,technology | environment | crime | entertainment | money
+1440,N1440,fear | joy | neutral,environment | entertainment | money | technology
+1441,N1441,anger | joy | neutral,sports | technology | politics | environment | crime | health | entertainment | money
+1442,N1442,neutral,technology | politics | crime | environment | entertainment | money
+1443,N1443,anger | fear | neutral,environment | politics | crime | entertainment | money
+1444,N1444,sadness | fear | neutral,technology | environment | politics | health | entertainment | money
+1445,N1445,disgust | neutral,technology | environment | politics | crime | health | entertainment | money
+1446,N1446,fear | joy | neutral,crime | politics | environment | health | entertainment | money
+1447,N1447,joy | neutral,sports | technology | environment | politics | health | entertainment | money
+1448,N1448,anger | joy | neutral,environment | crime | health | entertainment | money
+1449,N1449,anger | fear | neutral,technology | politics | crime | environment | health | entertainment | money
+1450,N1450,disgust | anger | sadness | neutral,technology | environment | politics | crime | health | entertainment | money
+1451,N1451,neutral,technology | politics | environment | health | entertainment | money
+1452,N1452,anger | neutral,technology | crime | politics | environment | entertainment | money
+1453,N1453,anger | neutral,technology | politics | crime | environment | entertainment | money
+1454,N1454,sadness | neutral,sports | technology | crime | politics | environment | entertainment | money
+1455,N1455,sadness | neutral,technology | environment | crime | politics | entertainment | money
+1456,N1456,anger | sadness | joy | neutral,technology | environment | politics | crime | entertainment | money
+1457,N1457,disgust | neutral,environment | entertainment | politics | money
+1458,N1458,anger | neutral,sports | technology | politics | crime | environment | health | entertainment | money
+1459,N1459,fear | neutral,technology | politics | environment | entertainment | money
+1460,N1460,disgust | neutral,technology | environment | health | entertainment | education
+1461,N1461,fear | neutral,technology | environment | crime | politics | health | entertainment | education | money
+1462,N1462,anger | neutral,technology | crime | environment | politics | entertainment | money
+1463,N1463,fear | neutral,technology | politics | crime | environment | health | entertainment | money
+1464,N1464,neutral,sports | environment | politics | entertainment | money
+1465,N1465,neutral,technology | politics | crime | environment | entertainment
+1466,N1466,surprise | joy | neutral,sports | technology | environment | politics | crime | entertainment | money
+1467,N1467,disgust | anger | neutral,technology | environment | crime | health | entertainment
+1468,N1468,joy | neutral,technology | politics | environment | crime | health | entertainment | money
+1469,N1469,anger | surprise | joy | neutral,environment | entertainment | money | crime
+1470,N1470,fear | sadness | joy | neutral,sports | technology | environment | crime | entertainment | money
+1471,N1471,disgust | neutral,technology | environment | crime | politics | entertainment | money
+1472,N1472,disgust | anger | neutral,environment | politics | crime | entertainment | money
+1473,N1473,neutral,technology | environment | politics | health | entertainment | education | money
+1474,N1474,sadness | neutral,technology | environment | crime | entertainment | money
+1475,N1475,fear | sadness | neutral,environment | politics | crime | health | entertainment | money
+1476,N1476,disgust | sadness | neutral,sports | technology | environment | crime | politics | entertainment | money
+1477,N1477,anger | neutral,technology | environment | crime | entertainment | money
+1478,N1478,joy | neutral,environment | entertainment | money
+1479,N1479,neutral,technology | environment | politics | health | entertainment | education | money
+1480,N1480,disgust | anger | neutral,sports | technology | environment | crime | entertainment | money
+1481,N1481,disgust | fear | sadness | joy | neutral | anger,technology | environment | crime | health | entertainment | education | money
+1482,N1482,disgust | anger | sadness | neutral,technology | environment | politics | crime | health | entertainment | education | money
+1483,N1483,fear | sadness | neutral,technology | politics | environment | crime | health | entertainment | education | money
+1484,N1484,sadness | joy | neutral,sports | technology | environment | politics | crime | health | entertainment | money
+1485,N1485,disgust | anger | fear | neutral,technology | environment | politics | crime | health | entertainment | money
+1486,N1486,disgust | fear | joy | neutral | anger,technology | crime | environment | entertainment | education | money
+1487,N1487,anger | sadness | fear | neutral,politics | crime | environment | health | entertainment | education | money
+1488,N1488,disgust | anger | neutral,technology | politics | environment | crime | health | entertainment | education | money
+1489,N1489,disgust | fear | sadness | neutral | anger,technology | environment | politics | crime | health | entertainment | education
+1490,N1490,anger | sadness | joy | neutral,technology | environment | politics | crime | health | entertainment | money
+1491,N1491,sadness | neutral,technology | environment | politics | crime | entertainment | education
+1492,N1492,anger | sadness | neutral,technology | environment | crime | health | entertainment | money
+1493,N1493,disgust | anger | fear | neutral,sports | technology | environment | crime | health | entertainment | education | money
+1494,N1494,anger | sadness | neutral,technology | environment | crime | health | entertainment | money
+1495,N1495,fear | sadness | surprise | neutral | anger,technology | environment | crime | health | entertainment | education | money
+1496,N1496,disgust | fear | sadness | surprise | joy | neutral | anger,technology | crime | environment | politics | health | entertainment | education | money
+1497,N1497,sadness | joy | neutral,technology | environment | crime | health | entertainment | money
+1498,N1498,disgust | fear | sadness | neutral | anger,technology | crime | politics | environment | health | entertainment | education | money
+1499,N1499,disgust | joy | neutral,technology | environment | crime | politics | health | entertainment | education | money
+1500,N1500,disgust | sadness | surprise | neutral | anger,technology | environment | crime | health | entertainment | education | money
+1501,N1501,anger | fear | neutral,technology | crime | environment | entertainment | education | money
+1502,N1502,anger | neutral,technology | politics | environment | crime | health | entertainment | education | money
+1503,N1503,disgust | fear | joy | neutral | anger,technology | crime | environment | entertainment | education | money
+1504,N1504,disgust | surprise | joy | neutral | anger,sports | technology | environment | crime | health | entertainment | education | money
+1505,N1505,anger | fear | neutral,technology | crime | environment | entertainment | education | money
+1506,N1506,disgust | fear | sadness | joy | neutral | anger,technology | crime | environment | health | entertainment | education | money
+1507,N1507,disgust | fear | joy | neutral,technology | environment | crime | entertainment | education
+1508,N1508,disgust | sadness | surprise | neutral,technology | environment | crime | health | entertainment | money
+1509,N1509,disgust | fear | neutral,technology | crime | environment | health | entertainment
+1510,N1510,disgust | fear | sadness | joy | neutral | anger,technology | environment | crime | politics | health | entertainment | education | money
+1511,N1511,disgust | surprise | joy | neutral | anger,technology | crime | environment | health | entertainment | education | money
+1512,N1512,disgust | fear | joy | neutral | anger,technology | environment | crime | entertainment | education | money
+1513,N1513,disgust | anger | joy | neutral,technology | environment | politics | crime | health | entertainment | education | money
+1514,N1514,disgust | fear | sadness | neutral | anger,technology | environment | politics | crime | health | entertainment | education | money
+1515,N1515,disgust | neutral,technology | crime | politics | environment | entertainment | money
+1516,N1516,fear | neutral,technology | crime | environment | health | entertainment | money
+1517,N1517,disgust | fear | sadness | surprise | neutral | anger,technology | environment | politics | crime | health | entertainment | education | money
+1518,N1518,neutral,technology | environment | crime | health | entertainment | education | money
+1519,N1519,disgust | fear | joy | neutral | anger,technology | environment | crime | entertainment | education | money
+1520,N1520,disgust | fear | sadness | surprise | joy | neutral | anger,sports | technology | environment | crime | politics | health | entertainment | education | money
+1521,N1521,disgust | fear | sadness | joy | neutral,technology | environment | crime | politics | health | entertainment | education | money
+1522,N1522,disgust | fear | joy | neutral,technology | crime | environment | entertainment | education | money
+1523,N1523,disgust | fear | joy | neutral,technology | environment | crime | politics | health | entertainment | money
