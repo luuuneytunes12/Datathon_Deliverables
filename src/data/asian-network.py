@@ -124,9 +124,6 @@ from sklearn.decomposition import LatentDirichletAllocation
 new_topics_df.columns = ['Dataset', 'Sentence']  
 text_data = new_topics_df['Sentence'].dropna().tolist()
 
-# Load and clean the dataset
-text_data = new_topics_df["0.0"].dropna().tolist()  # Use the `0.0` column for LDA
-
 
 # Preprocess the text (if needed)
 # For example, lowercase and remove punctuation/numbers (optional)
